@@ -6,7 +6,7 @@ Through Gephi, you can calculate various network measures and check each node an
 
 
 
-and can check it out on our online page using Gephi-lite! 
+and can check it out on our online page using Gephi-lite! https://gephi.org/gephi-lite/
 
 Bipartite Network: https://gist.github.com/117cda6eb88ff56dade40568d6b8e353.git
 
