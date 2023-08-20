@@ -1,0 +1,1474 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns="http://gexf.net/1.3" version="1.3" xmlns:viz="http://gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://gexf.net/1.3 http://gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2023-08-20">
+    <creator>Gephi 0.9.3</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="Gachon" label="Gachon">
+        <viz:size value="65.0"/>
+        <viz:position x="-152.66182" y="-554.04816"/>
+        <viz:color r="232" g="76" b="34"/>
+      </node>
+      <node id="Catholic" label="Catholic">
+        <viz:size value="65.0"/>
+        <viz:position x="183.38304" y="117.480965"/>
+        <viz:color r="232" g="76" b="34"/>
+      </node>
+      <node id="Gangneung_Wonju" label="Gangneung_Wonju">
+        <viz:size value="65.0"/>
+        <viz:position x="-321.96808" y="229.16786"/>
+        <viz:color r="232" g="76" b="34"/>
+      </node>
+      <node id="Kangwon" label="Kangwon">
+        <viz:size value="65.0"/>
+        <viz:position x="-291.4006" y="-143.40857"/>
+        <viz:color r="232" g="76" b="34"/>
+      </node>
+      <node id="Konkuk" label="Konkuk">
+        <viz:size value="65.0"/>
+        <viz:position x="238.7542" y="-49.15313"/>
+        <viz:color r="232" g="76" b="34"/>
+      </node>
+      <node id="Kyungpook" label="Kyungpook">
+        <viz:size value="61.071426"/>
+        <viz:position x="529.1937" y="-421.9812"/>
+        <viz:color r="232" g="76" b="34"/>
+      </node>
+      <node id="Gyeongsang" label="Gyeongsang">
+        <viz:size value="61.071426"/>
+        <viz:position x="102.22904" y="496.65552"/>
+        <viz:color r="232" g="76" b="34"/>
+      </node>
+      <node id="Kyungsung" label="Kyungsung">
+        <viz:size value="10.0"/>
+        <viz:position x="-457.87555" y="-3.6659617"/>
+        <viz:color r="232" g="76" b="34"/>
+      </node>
+      <node id="Kyung_Hee" label="Kyung_Hee">
+        <viz:size value="65.0"/>
+        <viz:position x="360.8121" y="628.42474"/>
+        <viz:color r="232" g="76" b="34"/>
+      </node>
+      <node id="Kyung_Hee_applied" label="Kyung_Hee_applied">
+        <viz:size value="61.071426"/>
+        <viz:position x="31.950733" y="347.20688"/>
+        <viz:color r="232" g="76" b="34"/>
+      </node>
+      <node id="Korea" label="Korea">
+        <viz:size value="65.0"/>
+        <viz:position x="538.9607" y="-249.57465"/>
+        <viz:color r="232" g="76" b="34"/>
+      </node>
+      <node id="Korea_Sejong" label="Korea_Sejong">
+        <viz:size value="65.0"/>
+        <viz:position x="474.71405" y="471.0005"/>
+        <viz:color r="232" g="76" b="34"/>
+      </node>
+      <node id="Kongju" label="Kongju">
+        <viz:size value="65.0"/>
+        <viz:position x="262.5432" y="462.60623"/>
+        <viz:color r="232" g="76" b="34"/>
+      </node>
+      <node id="Kwangwoon" label="Kwangwoon">
+        <viz:size value="65.0"/>
+        <viz:position x="-111.579956" y="-159.04344"/>
+        <viz:color r="232" g="76" b="34"/>
+      </node>
+      <node id="GIST" label="GIST">
+        <viz:size value="65.0"/>
+        <viz:position x="182.1439" y="679.58575"/>
+        <viz:color r="232" g="76" b="34"/>
+      </node>
+      <node id="Kookmin" label="Kookmin">
+        <viz:size value="61.071426"/>
+        <viz:position x="535.2267" y="19.942194"/>
+        <viz:color r="232" g="76" b="34"/>
+      </node>
+      <node id="Kunsan" label="Kunsan">
+        <viz:size value="65.0"/>
+        <viz:position x="207.67862" y="286.6703"/>
+        <viz:color r="232" g="76" b="34"/>
+      </node>
+      <node id="Dankook" label="Dankook">
+        <viz:size value="65.0"/>
+        <viz:position x="-454.13068" y="-107.12431"/>
+        <viz:color r="232" g="76" b="34"/>
+      </node>
+      <node id="DGIST" label="DGIST">
+        <viz:size value="65.0"/>
+        <viz:position x="-374.53418" y="56.885296"/>
+        <viz:color r="232" g="76" b="34"/>
+      </node>
+      <node id="Dongguk" label="Dongguk">
+        <viz:size value="61.071426"/>
+        <viz:position x="754.7799" y="233.38876"/>
+        <viz:color r="232" g="76" b="34"/>
+      </node>
+      <node id="Myongji" label="Myongji">
+        <viz:size value="65.0"/>
+        <viz:position x="392.81738" y="116.16745"/>
+        <viz:color r="232" g="76" b="34"/>
+      </node>
+      <node id="Mokpo" label="Mokpo">
+        <viz:size value="61.071426"/>
+        <viz:position x="866.81946" y="14.309242"/>
+        <viz:color r="232" g="76" b="34"/>
+      </node>
+      <node id="Pukyong" label="Pukyong">
+        <viz:size value="65.0"/>
+        <viz:position x="5.4270267" y="-486.30603"/>
+        <viz:color r="232" g="76" b="34"/>
+      </node>
+      <node id="Pusan" label="Pusan">
+        <viz:size value="65.0"/>
+        <viz:position x="-26.553158" y="11.85107"/>
+        <viz:color r="232" g="76" b="34"/>
+      </node>
+      <node id="Sogang" label="Sogang">
+        <viz:size value="65.0"/>
+        <viz:position x="642.9814" y="517.0011"/>
+        <viz:color r="232" g="76" b="34"/>
+      </node>
+      <node id="Seoul" label="Seoul">
+        <viz:size value="65.0"/>
+        <viz:position x="393.10367" y="293.5032"/>
+        <viz:color r="232" g="76" b="34"/>
+      </node>
+      <node id="UOS" label="UOS">
+        <viz:size value="61.071426"/>
+        <viz:position x="549.12177" y="193.99966"/>
+        <viz:color r="232" g="76" b="34"/>
+      </node>
+      <node id="Sungkyunkwan" label="Sungkyunkwan">
+        <viz:size value="61.071426"/>
+        <viz:position x="683.389" y="-355.99213"/>
+        <viz:color r="232" g="76" b="34"/>
+      </node>
+      <node id="Sejong" label="Sejong">
+        <viz:size value="65.0"/>
+        <viz:position x="306.76035" y="-509.47012"/>
+        <viz:color r="232" g="76" b="34"/>
+      </node>
+      <node id="Soongsil" label="Soongsil">
+        <viz:size value="65.0"/>
+        <viz:position x="-342.52817" y="-311.72424"/>
+        <viz:color r="232" g="76" b="34"/>
+      </node>
+      <node id="Ajou" label="Ajou">
+        <viz:size value="65.0"/>
+        <viz:position x="426.44186" y="-109.788055"/>
+        <viz:color r="232" g="76" b="34"/>
+      </node>
+      <node id="Yonsei" label="Yonsei">
+        <viz:size value="65.0"/>
+        <viz:position x="-150.17891" y="346.79843"/>
+        <viz:color r="232" g="76" b="34"/>
+      </node>
+      <node id="Yonsei_Mirae" label="Yonsei_Mirae">
+        <viz:size value="65.0"/>
+        <viz:position x="142.7589" y="-605.80664"/>
+        <viz:color r="232" g="76" b="34"/>
+      </node>
+      <node id="Yeungnam" label="Yeungnam">
+        <viz:size value="65.0"/>
+        <viz:position x="-304.10757" y="440.97537"/>
+        <viz:color r="232" g="76" b="34"/>
+      </node>
+      <node id="UNIST" label="UNIST">
+        <viz:size value="61.071426"/>
+        <viz:position x="816.7342" y="-164.70912"/>
+        <viz:color r="232" g="76" b="34"/>
+      </node>
+      <node id="Ewha" label="Ewha">
+        <viz:size value="61.071426"/>
+        <viz:position x="698.81805" y="71.350136"/>
+        <viz:color r="232" g="76" b="34"/>
+      </node>
+      <node id="Incheon" label="Incheon">
+        <viz:size value="65.0"/>
+        <viz:position x="-96.561485" y="516.84827"/>
+        <viz:color r="232" g="76" b="34"/>
+      </node>
+      <node id="Inha" label="Inha">
+        <viz:size value="61.071426"/>
+        <viz:position x="662.3422" y="-560.513"/>
+        <viz:color r="232" g="76" b="34"/>
+      </node>
+      <node id="Chonnam" label="Chonnam">
+        <viz:size value="65.0"/>
+        <viz:position x="73.68292" y="-134.25764"/>
+        <viz:color r="232" g="76" b="34"/>
+      </node>
+      <node id="Jeonbuk" label="Jeonbuk">
+        <viz:size value="61.071426"/>
+        <viz:position x="619.05" y="353.8411"/>
+        <viz:color r="232" g="76" b="34"/>
+      </node>
+      <node id="Jeju" label="Jeju">
+        <viz:size value="65.0"/>
+        <viz:position x="25.091492" y="184.36188"/>
+        <viz:color r="232" g="76" b="34"/>
+      </node>
+      <node id="Chung_Ang" label="Chung_Ang">
+        <viz:size value="61.071426"/>
+        <viz:position x="657.9112" y="-117.419876"/>
+        <viz:color r="232" g="76" b="34"/>
+      </node>
+      <node id="Changwon" label="Changwon">
+        <viz:size value="61.071426"/>
+        <viz:position x="482.1874" y="-597.1569"/>
+        <viz:color r="232" g="76" b="34"/>
+      </node>
+      <node id="Chungnam" label="Chungnam">
+        <viz:size value="65.0"/>
+        <viz:position x="6.558529" y="-309.01584"/>
+        <viz:color r="232" g="76" b="34"/>
+      </node>
+      <node id="ChungBuk" label="ChungBuk">
+        <viz:size value="65.0"/>
+        <viz:position x="-155.74548" y="-378.06824"/>
+        <viz:color r="232" g="76" b="34"/>
+      </node>
+      <node id="POSTECH" label="POSTECH">
+        <viz:size value="65.0"/>
+        <viz:position x="167.84492" y="-397.90317"/>
+        <viz:color r="232" g="76" b="34"/>
+      </node>
+      <node id="KAIST" label="KAIST">
+        <viz:size value="65.0"/>
+        <viz:position x="-204.42882" y="3.7528782"/>
+        <viz:color r="232" g="76" b="34"/>
+      </node>
+      <node id="Hankuk" label="Hankuk">
+        <viz:size value="65.0"/>
+        <viz:position x="247.71005" y="-223.85861"/>
+        <viz:color r="232" g="76" b="34"/>
+      </node>
+      <node id="Hanyang" label="Hanyang">
+        <viz:size value="65.0"/>
+        <viz:position x="-139.45192" y="157.94522"/>
+        <viz:color r="232" g="76" b="34"/>
+      </node>
+      <node id="Hanyang_ERICA" label="Hanyang_ERICA">
+        <viz:size value="65.0"/>
+        <viz:position x="379.53076" y="-355.37613"/>
+        <viz:color r="232" g="76" b="34"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="30936" source="Gachon" target="Gangneung_Wonju" weight="18.0"/>
+      <edge id="30937" source="Gachon" target="DGIST" weight="4.0"/>
+      <edge id="30938" source="Gachon" target="Ajou" weight="8.0"/>
+      <edge id="30939" source="Gachon" target="GIST" weight="4.0"/>
+      <edge id="30940" source="Gachon" target="Korea_Sejong" weight="14.0"/>
+      <edge id="30941" source="Gachon" target="Gyeongsang" weight="13.0"/>
+      <edge id="30942" source="Gachon" target="Dongguk" weight="15.0"/>
+      <edge id="30943" source="Gachon" target="Sungkyunkwan" weight="10.0"/>
+      <edge id="30944" source="Gachon" target="Korea" weight="12.0"/>
+      <edge id="30945" source="Gachon" target="Kyungpook" weight="11.0"/>
+      <edge id="30946" source="Gachon" target="Incheon" weight="17.0"/>
+      <edge id="30947" source="Gachon" target="Pukyong" weight="18.0"/>
+      <edge id="30948" source="Gachon" target="Inha" weight="14.0"/>
+      <edge id="30949" source="Gachon" target="Mokpo" weight="12.0"/>
+      <edge id="30950" source="Gachon" target="UNIST" weight="13.0"/>
+      <edge id="30951" source="Gachon" target="Hanyang_ERICA" weight="7.0"/>
+      <edge id="30952" source="Gachon" target="Myongji" weight="3.0"/>
+      <edge id="30953" source="Gachon" target="Kongju" weight="14.0"/>
+      <edge id="30954" source="Gachon" target="Kookmin" weight="6.0"/>
+      <edge id="30955" source="Gachon" target="Kyungsung" weight="3.0"/>
+      <edge id="30956" source="Gachon" target="Chung_Ang" weight="15.0"/>
+      <edge id="30957" source="Gachon" target="Jeju" weight="10.0"/>
+      <edge id="30958" source="Gachon" target="Soongsil" weight="15.0"/>
+      <edge id="30959" source="Gachon" target="Kyung_Hee_applied" weight="11.0"/>
+      <edge id="30960" source="Gachon" target="Kyung_Hee" weight="17.0"/>
+      <edge id="30961" source="Gachon" target="Kwangwoon" weight="8.0"/>
+      <edge id="30962" source="Gachon" target="Hanyang" weight="17.0"/>
+      <edge id="30963" source="Gachon" target="Changwon" weight="15.0"/>
+      <edge id="30964" source="Gachon" target="Kunsan" weight="13.0"/>
+      <edge id="30965" source="Gachon" target="Yeungnam" weight="12.0"/>
+      <edge id="30966" source="Gachon" target="Seoul" weight="5.0"/>
+      <edge id="30967" source="Gachon" target="Chungnam" weight="18.0"/>
+      <edge id="30968" source="Gachon" target="Dankook" weight="14.0"/>
+      <edge id="30969" source="Gachon" target="Sejong" weight="14.0"/>
+      <edge id="30970" source="Gachon" target="Sogang" weight="18.0"/>
+      <edge id="30971" source="Gachon" target="UOS" weight="11.0"/>
+      <edge id="30972" source="Gachon" target="ChungBuk" weight="18.0"/>
+      <edge id="30973" source="Gachon" target="Yonsei_Mirae" weight="16.0"/>
+      <edge id="30974" source="Gachon" target="Ewha" weight="14.0"/>
+      <edge id="30975" source="Gachon" target="Chonnam" weight="16.0"/>
+      <edge id="30976" source="Gachon" target="Konkuk" weight="11.0"/>
+      <edge id="30977" source="Gachon" target="Kangwon" weight="17.0"/>
+      <edge id="30978" source="Gachon" target="Jeonbuk" weight="16.0"/>
+      <edge id="30979" source="Gachon" target="Yonsei" weight="22.0"/>
+      <edge id="30980" source="Gachon" target="Catholic" weight="20.0"/>
+      <edge id="30981" source="Gachon" target="POSTECH" weight="7.0"/>
+      <edge id="30982" source="Gachon" target="Hankuk" weight="10.0"/>
+      <edge id="30983" source="Gachon" target="Pusan" weight="13.0"/>
+      <edge id="30984" source="Gachon" target="KAIST" weight="16.0"/>
+      <edge id="30985" source="Catholic" target="Gangneung_Wonju" weight="16.0"/>
+      <edge id="30986" source="Catholic" target="DGIST" weight="4.0"/>
+      <edge id="30987" source="Catholic" target="GIST" weight="8.0"/>
+      <edge id="30988" source="Catholic" target="Ajou" weight="8.0"/>
+      <edge id="30989" source="Catholic" target="Korea_Sejong" weight="15.0"/>
+      <edge id="30990" source="Catholic" target="Gyeongsang" weight="13.0"/>
+      <edge id="30991" source="Catholic" target="Dongguk" weight="12.0"/>
+      <edge id="30992" source="Catholic" target="Sungkyunkwan" weight="13.0"/>
+      <edge id="30993" source="Catholic" target="Korea" weight="15.0"/>
+      <edge id="30994" source="Catholic" target="Kyungpook" weight="11.0"/>
+      <edge id="30995" source="Catholic" target="Incheon" weight="13.0"/>
+      <edge id="30996" source="Catholic" target="Pukyong" weight="16.0"/>
+      <edge id="30997" source="Catholic" target="Inha" weight="11.0"/>
+      <edge id="30998" source="Catholic" target="Myongji" weight="2.0"/>
+      <edge id="30999" source="Catholic" target="UNIST" weight="15.0"/>
+      <edge id="31000" source="Catholic" target="Hanyang_ERICA" weight="7.0"/>
+      <edge id="31001" source="Catholic" target="Mokpo" weight="11.0"/>
+      <edge id="31002" source="Catholic" target="Kookmin" weight="12.0"/>
+      <edge id="31003" source="Catholic" target="Kongju" weight="11.0"/>
+      <edge id="31004" source="Catholic" target="Kyungsung" weight="3.0"/>
+      <edge id="31005" source="Catholic" target="Chung_Ang" weight="13.0"/>
+      <edge id="31006" source="Catholic" target="Jeju" weight="9.0"/>
+      <edge id="31007" source="Catholic" target="Soongsil" weight="14.0"/>
+      <edge id="31008" source="Catholic" target="Kyung_Hee_applied" weight="12.0"/>
+      <edge id="31009" source="Catholic" target="Kyung_Hee" weight="21.0"/>
+      <edge id="31010" source="Catholic" target="Kwangwoon" weight="7.0"/>
+      <edge id="31011" source="Catholic" target="Hanyang" weight="16.0"/>
+      <edge id="31012" source="Catholic" target="Changwon" weight="13.0"/>
+      <edge id="31013" source="Catholic" target="Kunsan" weight="12.0"/>
+      <edge id="31014" source="Catholic" target="Seoul" weight="10.0"/>
+      <edge id="31015" source="Catholic" target="Yeungnam" weight="10.0"/>
+      <edge id="31016" source="Catholic" target="Chungnam" weight="16.0"/>
+      <edge id="31017" source="Catholic" target="Dankook" weight="8.0"/>
+      <edge id="31018" source="Catholic" target="Sejong" weight="12.0"/>
+      <edge id="31019" source="Catholic" target="Sogang" weight="17.0"/>
+      <edge id="31020" source="Catholic" target="UOS" weight="9.0"/>
+      <edge id="31021" source="Catholic" target="ChungBuk" weight="16.0"/>
+      <edge id="31022" source="Catholic" target="Yonsei_Mirae" weight="17.0"/>
+      <edge id="31023" source="Catholic" target="Ewha" weight="13.0"/>
+      <edge id="31024" source="Catholic" target="Konkuk" weight="16.0"/>
+      <edge id="31025" source="Catholic" target="Chonnam" weight="11.0"/>
+      <edge id="31026" source="Catholic" target="Kangwon" weight="19.0"/>
+      <edge id="31027" source="Catholic" target="Jeonbuk" weight="15.0"/>
+      <edge id="31028" source="Catholic" target="Yonsei" weight="19.0"/>
+      <edge id="31029" source="Catholic" target="Hankuk" weight="10.0"/>
+      <edge id="31030" source="Catholic" target="POSTECH" weight="6.0"/>
+      <edge id="31031" source="Catholic" target="Pusan" weight="14.0"/>
+      <edge id="31032" source="Catholic" target="KAIST" weight="18.0"/>
+      <edge id="31033" source="Gangneung_Wonju" target="DGIST" weight="3.0"/>
+      <edge id="31034" source="Gangneung_Wonju" target="Ajou" weight="7.0"/>
+      <edge id="31035" source="Gangneung_Wonju" target="GIST" weight="5.0"/>
+      <edge id="31036" source="Gangneung_Wonju" target="Korea_Sejong" weight="13.0"/>
+      <edge id="31037" source="Gangneung_Wonju" target="Gyeongsang" weight="11.0"/>
+      <edge id="31038" source="Gangneung_Wonju" target="Dongguk" weight="11.0"/>
+      <edge id="31039" source="Gangneung_Wonju" target="Sungkyunkwan" weight="10.0"/>
+      <edge id="31040" source="Gangneung_Wonju" target="Korea" weight="14.0"/>
+      <edge id="31041" source="Gangneung_Wonju" target="Kyungpook" weight="11.0"/>
+      <edge id="31042" source="Gangneung_Wonju" target="Incheon" weight="14.0"/>
+      <edge id="31043" source="Gangneung_Wonju" target="Pukyong" weight="17.0"/>
+      <edge id="31044" source="Gangneung_Wonju" target="Inha" weight="11.0"/>
+      <edge id="31045" source="Gangneung_Wonju" target="Mokpo" weight="12.0"/>
+      <edge id="31046" source="Gangneung_Wonju" target="UNIST" weight="9.0"/>
+      <edge id="31047" source="Gangneung_Wonju" target="Hanyang_ERICA" weight="4.0"/>
+      <edge id="31048" source="Gangneung_Wonju" target="Myongji" weight="2.0"/>
+      <edge id="31049" source="Gangneung_Wonju" target="Kookmin" weight="9.0"/>
+      <edge id="31050" source="Gangneung_Wonju" target="Kongju" weight="11.0"/>
+      <edge id="31051" source="Gangneung_Wonju" target="Kyungsung" weight="3.0"/>
+      <edge id="31052" source="Gangneung_Wonju" target="Chung_Ang" weight="16.0"/>
+      <edge id="31053" source="Gangneung_Wonju" target="Jeju" weight="6.0"/>
+      <edge id="31054" source="Gangneung_Wonju" target="Soongsil" weight="14.0"/>
+      <edge id="31055" source="Gangneung_Wonju" target="Kyung_Hee_applied" weight="9.0"/>
+      <edge id="31056" source="Gangneung_Wonju" target="Kyung_Hee" weight="16.0"/>
+      <edge id="31057" source="Gangneung_Wonju" target="Kwangwoon" weight="6.0"/>
+      <edge id="31058" source="Gangneung_Wonju" target="Hanyang" weight="17.0"/>
+      <edge id="31059" source="Gangneung_Wonju" target="Changwon" weight="13.0"/>
+      <edge id="31060" source="Gangneung_Wonju" target="Kunsan" weight="9.0"/>
+      <edge id="31061" source="Gangneung_Wonju" target="Yeungnam" weight="12.0"/>
+      <edge id="31062" source="Gangneung_Wonju" target="Seoul" weight="6.0"/>
+      <edge id="31063" source="Gangneung_Wonju" target="Chungnam" weight="16.0"/>
+      <edge id="31064" source="Gangneung_Wonju" target="Dankook" weight="13.0"/>
+      <edge id="31065" source="Gangneung_Wonju" target="Sejong" weight="10.0"/>
+      <edge id="31066" source="Gangneung_Wonju" target="Sogang" weight="15.0"/>
+      <edge id="31067" source="Gangneung_Wonju" target="UOS" weight="8.0"/>
+      <edge id="31068" source="Gangneung_Wonju" target="ChungBuk" weight="14.0"/>
+      <edge id="31069" source="Gangneung_Wonju" target="Yonsei_Mirae" weight="16.0"/>
+      <edge id="31070" source="Gangneung_Wonju" target="Ewha" weight="14.0"/>
+      <edge id="31071" source="Gangneung_Wonju" target="Chonnam" weight="13.0"/>
+      <edge id="31072" source="Gangneung_Wonju" target="Konkuk" weight="8.0"/>
+      <edge id="31073" source="Gangneung_Wonju" target="Kangwon" weight="19.0"/>
+      <edge id="31074" source="Gangneung_Wonju" target="Jeonbuk" weight="12.0"/>
+      <edge id="31075" source="Gangneung_Wonju" target="Yonsei" weight="19.0"/>
+      <edge id="31076" source="Gangneung_Wonju" target="Hankuk" weight="8.0"/>
+      <edge id="31077" source="Gangneung_Wonju" target="POSTECH" weight="5.0"/>
+      <edge id="31078" source="Gangneung_Wonju" target="Pusan" weight="10.0"/>
+      <edge id="31079" source="Gangneung_Wonju" target="KAIST" weight="11.0"/>
+      <edge id="31080" source="Kangwon" target="DGIST" weight="3.0"/>
+      <edge id="31081" source="Kangwon" target="GIST" weight="9.0"/>
+      <edge id="31082" source="Kangwon" target="Ajou" weight="11.0"/>
+      <edge id="31083" source="Kangwon" target="Korea_Sejong" weight="17.0"/>
+      <edge id="31084" source="Kangwon" target="Gyeongsang" weight="13.0"/>
+      <edge id="31085" source="Kangwon" target="Dongguk" weight="9.0"/>
+      <edge id="31086" source="Kangwon" target="Sungkyunkwan" weight="10.0"/>
+      <edge id="31087" source="Kangwon" target="Kyungpook" weight="10.0"/>
+      <edge id="31088" source="Kangwon" target="Korea" weight="14.0"/>
+      <edge id="31089" source="Kangwon" target="Myongji" weight="7.0"/>
+      <edge id="31090" source="Kangwon" target="Pukyong" weight="19.0"/>
+      <edge id="31091" source="Kangwon" target="Incheon" weight="8.0"/>
+      <edge id="31092" source="Kangwon" target="Mokpo" weight="11.0"/>
+      <edge id="31093" source="Kangwon" target="UNIST" weight="12.0"/>
+      <edge id="31094" source="Kangwon" target="Hanyang_ERICA" weight="11.0"/>
+      <edge id="31095" source="Kangwon" target="Inha" weight="12.0"/>
+      <edge id="31096" source="Kangwon" target="Kookmin" weight="11.0"/>
+      <edge id="31097" source="Kangwon" target="Kongju" weight="13.0"/>
+      <edge id="31098" source="Kangwon" target="Kyungsung" weight="3.0"/>
+      <edge id="31099" source="Kangwon" target="Chung_Ang" weight="17.0"/>
+      <edge id="31100" source="Kangwon" target="Jeju" weight="9.0"/>
+      <edge id="31101" source="Kangwon" target="Soongsil" weight="14.0"/>
+      <edge id="31102" source="Kangwon" target="Kyung_Hee_applied" weight="15.0"/>
+      <edge id="31103" source="Kangwon" target="Kyung_Hee" weight="16.0"/>
+      <edge id="31104" source="Kangwon" target="Kwangwoon" weight="12.0"/>
+      <edge id="31105" source="Kangwon" target="Kunsan" weight="12.0"/>
+      <edge id="31106" source="Kangwon" target="Changwon" weight="10.0"/>
+      <edge id="31107" source="Kangwon" target="Hanyang" weight="17.0"/>
+      <edge id="31108" source="Kangwon" target="Yeungnam" weight="12.0"/>
+      <edge id="31109" source="Kangwon" target="Seoul" weight="10.0"/>
+      <edge id="31110" source="Kangwon" target="Chungnam" weight="22.0"/>
+      <edge id="31111" source="Kangwon" target="Dankook" weight="13.0"/>
+      <edge id="31112" source="Kangwon" target="Sejong" weight="8.0"/>
+      <edge id="31113" source="Kangwon" target="Sogang" weight="20.0"/>
+      <edge id="31114" source="Kangwon" target="UOS" weight="6.0"/>
+      <edge id="31115" source="Kangwon" target="ChungBuk" weight="20.0"/>
+      <edge id="31116" source="Kangwon" target="Yonsei_Mirae" weight="16.0"/>
+      <edge id="31117" source="Kangwon" target="Ewha" weight="17.0"/>
+      <edge id="31118" source="Kangwon" target="Chonnam" weight="16.0"/>
+      <edge id="31119" source="Kangwon" target="Konkuk" weight="8.0"/>
+      <edge id="31120" source="Kangwon" target="Jeonbuk" weight="13.0"/>
+      <edge id="31121" source="Kangwon" target="Yonsei" weight="17.0"/>
+      <edge id="31122" source="Kangwon" target="Hankuk" weight="7.0"/>
+      <edge id="31123" source="Kangwon" target="POSTECH" weight="5.0"/>
+      <edge id="31124" source="Kangwon" target="Pusan" weight="12.0"/>
+      <edge id="31125" source="Kangwon" target="KAIST" weight="13.0"/>
+      <edge id="31126" source="Konkuk" target="DGIST" weight="4.0"/>
+      <edge id="31127" source="Konkuk" target="GIST" weight="12.0"/>
+      <edge id="31128" source="Konkuk" target="Ajou" weight="5.0"/>
+      <edge id="31129" source="Konkuk" target="Korea_Sejong" weight="13.0"/>
+      <edge id="31130" source="Konkuk" target="Gyeongsang" weight="8.0"/>
+      <edge id="31131" source="Konkuk" target="Dongguk" weight="9.0"/>
+      <edge id="31132" source="Konkuk" target="Sungkyunkwan" weight="9.0"/>
+      <edge id="31133" source="Konkuk" target="Korea" weight="9.0"/>
+      <edge id="31134" source="Konkuk" target="Kyungpook" weight="9.0"/>
+      <edge id="31135" source="Konkuk" target="Incheon" weight="11.0"/>
+      <edge id="31136" source="Konkuk" target="Pukyong" weight="6.0"/>
+      <edge id="31137" source="Konkuk" target="Inha" weight="8.0"/>
+      <edge id="31138" source="Konkuk" target="Myongji" weight="4.0"/>
+      <edge id="31139" source="Konkuk" target="UNIST" weight="5.0"/>
+      <edge id="31140" source="Konkuk" target="Mokpo" weight="7.0"/>
+      <edge id="31141" source="Konkuk" target="Hanyang_ERICA" weight="5.0"/>
+      <edge id="31142" source="Konkuk" target="Kongju" weight="9.0"/>
+      <edge id="31143" source="Konkuk" target="Kookmin" weight="5.0"/>
+      <edge id="31144" source="Konkuk" target="Kyungsung" weight="4.0"/>
+      <edge id="31145" source="Konkuk" target="Chung_Ang" weight="9.0"/>
+      <edge id="31146" source="Konkuk" target="Jeju" weight="6.0"/>
+      <edge id="31147" source="Konkuk" target="Soongsil" weight="13.0"/>
+      <edge id="31148" source="Konkuk" target="Kyung_Hee_applied" weight="7.0"/>
+      <edge id="31149" source="Konkuk" target="Kyung_Hee" weight="16.0"/>
+      <edge id="31150" source="Konkuk" target="Kwangwoon" weight="10.0"/>
+      <edge id="31151" source="Konkuk" target="Hanyang" weight="13.0"/>
+      <edge id="31152" source="Konkuk" target="Changwon" weight="9.0"/>
+      <edge id="31153" source="Konkuk" target="Kunsan" weight="11.0"/>
+      <edge id="31154" source="Konkuk" target="Seoul" weight="6.0"/>
+      <edge id="31155" source="Konkuk" target="Yeungnam" weight="7.0"/>
+      <edge id="31156" source="Konkuk" target="Chungnam" weight="13.0"/>
+      <edge id="31157" source="Konkuk" target="Dankook" weight="5.0"/>
+      <edge id="31158" source="Konkuk" target="Sejong" weight="8.0"/>
+      <edge id="31159" source="Konkuk" target="Sogang" weight="8.0"/>
+      <edge id="31160" source="Konkuk" target="UOS" weight="19.0"/>
+      <edge id="31161" source="Konkuk" target="ChungBuk" weight="14.0"/>
+      <edge id="31162" source="Konkuk" target="Yonsei_Mirae" weight="10.0"/>
+      <edge id="31163" source="Konkuk" target="Ewha" weight="7.0"/>
+      <edge id="31164" source="Konkuk" target="Chonnam" weight="5.0"/>
+      <edge id="31165" source="Konkuk" target="Jeonbuk" weight="8.0"/>
+      <edge id="31166" source="Konkuk" target="Yonsei" weight="13.0"/>
+      <edge id="31167" source="Konkuk" target="Hankuk" weight="11.0"/>
+      <edge id="31168" source="Konkuk" target="POSTECH" weight="2.0"/>
+      <edge id="31169" source="Konkuk" target="Pusan" weight="10.0"/>
+      <edge id="31170" source="Konkuk" target="KAIST" weight="10.0"/>
+      <edge id="31171" source="Kyungpook" target="DGIST" weight="4.0"/>
+      <edge id="31172" source="Kyungpook" target="GIST" weight="6.0"/>
+      <edge id="31173" source="Kyungpook" target="Ajou" weight="11.0"/>
+      <edge id="31174" source="Kyungpook" target="Korea_Sejong" weight="13.0"/>
+      <edge id="31175" source="Kyungpook" target="Gyeongsang" weight="22.0"/>
+      <edge id="31176" source="Kyungpook" target="Dongguk" weight="11.0"/>
+      <edge id="31177" source="Kyungpook" target="Sungkyunkwan" weight="10.0"/>
+      <edge id="31178" source="Kyungpook" target="Korea" weight="13.0"/>
+      <edge id="31179" source="Kyungpook" target="Myongji" weight="16.0"/>
+      <edge id="31180" source="Kyungpook" target="Inha" weight="20.0"/>
+      <edge id="31181" source="Kyungpook" target="Pukyong" weight="10.0"/>
+      <edge id="31182" source="Kyungpook" target="Mokpo" weight="15.0"/>
+      <edge id="31183" source="Kyungpook" target="UNIST" weight="14.0"/>
+      <edge id="31184" source="Kyungpook" target="Hanyang_ERICA" weight="13.0"/>
+      <edge id="31185" source="Kyungpook" target="Incheon" weight="18.0"/>
+      <edge id="31186" source="Kyungpook" target="Kookmin" weight="12.0"/>
+      <edge id="31187" source="Kyungpook" target="Kongju" weight="11.0"/>
+      <edge id="31188" source="Kyungpook" target="Chung_Ang" weight="19.0"/>
+      <edge id="31189" source="Kyungpook" target="Jeju" weight="2.0"/>
+      <edge id="31190" source="Kyungpook" target="Kyung_Hee_applied" weight="21.0"/>
+      <edge id="31191" source="Kyungpook" target="Soongsil" weight="15.0"/>
+      <edge id="31192" source="Kyungpook" target="Kyung_Hee" weight="14.0"/>
+      <edge id="31193" source="Kyungpook" target="Kwangwoon" weight="7.0"/>
+      <edge id="31194" source="Kyungpook" target="Hanyang" weight="14.0"/>
+      <edge id="31195" source="Kyungpook" target="Changwon" weight="14.0"/>
+      <edge id="31196" source="Kyungpook" target="Kunsan" weight="12.0"/>
+      <edge id="31197" source="Kyungpook" target="Seoul" weight="17.0"/>
+      <edge id="31198" source="Kyungpook" target="Yeungnam" weight="15.0"/>
+      <edge id="31199" source="Kyungpook" target="Chungnam" weight="22.0"/>
+      <edge id="31200" source="Kyungpook" target="Dankook" weight="17.0"/>
+      <edge id="31201" source="Kyungpook" target="Sejong" weight="10.0"/>
+      <edge id="31202" source="Kyungpook" target="Sogang" weight="15.0"/>
+      <edge id="31203" source="Kyungpook" target="UOS" weight="8.0"/>
+      <edge id="31204" source="Kyungpook" target="ChungBuk" weight="15.0"/>
+      <edge id="31205" source="Kyungpook" target="Yonsei_Mirae" weight="9.0"/>
+      <edge id="31206" source="Kyungpook" target="Ewha" weight="11.0"/>
+      <edge id="31207" source="Kyungpook" target="Chonnam" weight="20.0"/>
+      <edge id="31208" source="Kyungpook" target="Jeonbuk" weight="17.0"/>
+      <edge id="31209" source="Kyungpook" target="Yonsei" weight="10.0"/>
+      <edge id="31210" source="Kyungpook" target="POSTECH" weight="17.0"/>
+      <edge id="31211" source="Kyungpook" target="Hankuk" weight="8.0"/>
+      <edge id="31212" source="Kyungpook" target="Pusan" weight="15.0"/>
+      <edge id="31213" source="Kyungpook" target="KAIST" weight="17.0"/>
+      <edge id="31214" source="Gyeongsang" target="DGIST" weight="3.0"/>
+      <edge id="31215" source="Gyeongsang" target="Ajou" weight="13.0"/>
+      <edge id="31216" source="Gyeongsang" target="GIST" weight="8.0"/>
+      <edge id="31217" source="Gyeongsang" target="Korea_Sejong" weight="17.0"/>
+      <edge id="31218" source="Gyeongsang" target="Dongguk" weight="10.0"/>
+      <edge id="31219" source="Gyeongsang" target="Sungkyunkwan" weight="11.0"/>
+      <edge id="31220" source="Gyeongsang" target="Korea" weight="14.0"/>
+      <edge id="31221" source="Gyeongsang" target="Myongji" weight="13.0"/>
+      <edge id="31222" source="Gyeongsang" target="Pukyong" weight="12.0"/>
+      <edge id="31223" source="Gyeongsang" target="Incheon" weight="17.0"/>
+      <edge id="31224" source="Gyeongsang" target="Inha" weight="18.0"/>
+      <edge id="31225" source="Gyeongsang" target="UNIST" weight="12.0"/>
+      <edge id="31226" source="Gyeongsang" target="Hanyang_ERICA" weight="14.0"/>
+      <edge id="31227" source="Gyeongsang" target="Mokpo" weight="14.0"/>
+      <edge id="31228" source="Gyeongsang" target="Kongju" weight="14.0"/>
+      <edge id="31229" source="Gyeongsang" target="Kookmin" weight="12.0"/>
+      <edge id="31230" source="Gyeongsang" target="Chung_Ang" weight="19.0"/>
+      <edge id="31231" source="Gyeongsang" target="Jeju" weight="9.0"/>
+      <edge id="31232" source="Gyeongsang" target="Soongsil" weight="17.0"/>
+      <edge id="31233" source="Gyeongsang" target="Kyung_Hee_applied" weight="18.0"/>
+      <edge id="31234" source="Gyeongsang" target="Kyung_Hee" weight="13.0"/>
+      <edge id="31235" source="Gyeongsang" target="Kwangwoon" weight="9.0"/>
+      <edge id="31236" source="Gyeongsang" target="Hanyang" weight="18.0"/>
+      <edge id="31237" source="Gyeongsang" target="Changwon" weight="17.0"/>
+      <edge id="31238" source="Gyeongsang" target="Kunsan" weight="20.0"/>
+      <edge id="31239" source="Gyeongsang" target="Yeungnam" weight="17.0"/>
+      <edge id="31240" source="Gyeongsang" target="Seoul" weight="13.0"/>
+      <edge id="31241" source="Gyeongsang" target="Chungnam" weight="20.0"/>
+      <edge id="31242" source="Gyeongsang" target="Dankook" weight="20.0"/>
+      <edge id="31243" source="Gyeongsang" target="Sejong" weight="9.0"/>
+      <edge id="31244" source="Gyeongsang" target="Sogang" weight="18.0"/>
+      <edge id="31245" source="Gyeongsang" target="UOS" weight="8.0"/>
+      <edge id="31246" source="Gyeongsang" target="ChungBuk" weight="14.0"/>
+      <edge id="31247" source="Gyeongsang" target="Yonsei_Mirae" weight="12.0"/>
+      <edge id="31248" source="Gyeongsang" target="Ewha" weight="12.0"/>
+      <edge id="31249" source="Gyeongsang" target="Chonnam" weight="23.0"/>
+      <edge id="31250" source="Gyeongsang" target="Jeonbuk" weight="19.0"/>
+      <edge id="31251" source="Gyeongsang" target="Yonsei" weight="9.0"/>
+      <edge id="31252" source="Gyeongsang" target="POSTECH" weight="13.0"/>
+      <edge id="31253" source="Gyeongsang" target="Hankuk" weight="8.0"/>
+      <edge id="31254" source="Gyeongsang" target="Pusan" weight="19.0"/>
+      <edge id="31255" source="Gyeongsang" target="KAIST" weight="19.0"/>
+      <edge id="31256" source="Kyungsung" target="DGIST" weight="3.0"/>
+      <edge id="31257" source="Kyungsung" target="Ajou" weight="2.0"/>
+      <edge id="31258" source="Kyungsung" target="GIST"/>
+      <edge id="31259" source="Kyungsung" target="Korea_Sejong" weight="2.0"/>
+      <edge id="31260" source="Kyungsung" target="Korea" weight="3.0"/>
+      <edge id="31261" source="Kyungsung" target="Incheon" weight="2.0"/>
+      <edge id="31262" source="Kyungsung" target="Pukyong" weight="2.0"/>
+      <edge id="31263" source="Kyungsung" target="Myongji" weight="3.0"/>
+      <edge id="31264" source="Kyungsung" target="Hanyang_ERICA" weight="2.0"/>
+      <edge id="31265" source="Kyungsung" target="Kongju" weight="2.0"/>
+      <edge id="31266" source="Kyungsung" target="Jeju"/>
+      <edge id="31267" source="Kyungsung" target="Soongsil" weight="2.0"/>
+      <edge id="31268" source="Kyungsung" target="Kyung_Hee" weight="5.0"/>
+      <edge id="31269" source="Kyungsung" target="Kwangwoon"/>
+      <edge id="31270" source="Kyungsung" target="Kunsan" weight="3.0"/>
+      <edge id="31271" source="Kyungsung" target="Hanyang" weight="5.0"/>
+      <edge id="31272" source="Kyungsung" target="Yeungnam" weight="2.0"/>
+      <edge id="31273" source="Kyungsung" target="Seoul"/>
+      <edge id="31274" source="Kyungsung" target="Chungnam" weight="2.0"/>
+      <edge id="31275" source="Kyungsung" target="Dankook" weight="2.0"/>
+      <edge id="31276" source="Kyungsung" target="Sejong" weight="3.0"/>
+      <edge id="31277" source="Kyungsung" target="Sogang" weight="2.0"/>
+      <edge id="31278" source="Kyungsung" target="ChungBuk" weight="4.0"/>
+      <edge id="31279" source="Kyungsung" target="Yonsei_Mirae" weight="4.0"/>
+      <edge id="31280" source="Kyungsung" target="Chonnam"/>
+      <edge id="31281" source="Kyungsung" target="Yonsei" weight="3.0"/>
+      <edge id="31282" source="Kyungsung" target="Hankuk" weight="2.0"/>
+      <edge id="31283" source="Kyungsung" target="POSTECH" weight="2.0"/>
+      <edge id="31284" source="Kyungsung" target="Pusan"/>
+      <edge id="31285" source="Kyungsung" target="KAIST"/>
+      <edge id="31286" source="Kyung_Hee" target="DGIST" weight="6.0"/>
+      <edge id="31287" source="Kyung_Hee" target="Ajou" weight="12.0"/>
+      <edge id="31288" source="Kyung_Hee" target="GIST" weight="7.0"/>
+      <edge id="31289" source="Kyung_Hee" target="Korea_Sejong" weight="17.0"/>
+      <edge id="31290" source="Kyung_Hee" target="Dongguk" weight="16.0"/>
+      <edge id="31291" source="Kyung_Hee" target="Sungkyunkwan" weight="14.0"/>
+      <edge id="31292" source="Kyung_Hee" target="Korea" weight="14.0"/>
+      <edge id="31293" source="Kyung_Hee" target="Myongji" weight="6.0"/>
+      <edge id="31294" source="Kyung_Hee" target="Inha" weight="18.0"/>
+      <edge id="31295" source="Kyung_Hee" target="Pukyong" weight="15.0"/>
+      <edge id="31296" source="Kyung_Hee" target="Mokpo" weight="12.0"/>
+      <edge id="31297" source="Kyung_Hee" target="UNIST" weight="12.0"/>
+      <edge id="31298" source="Kyung_Hee" target="Hanyang_ERICA" weight="10.0"/>
+      <edge id="31299" source="Kyung_Hee" target="Incheon" weight="17.0"/>
+      <edge id="31300" source="Kyung_Hee" target="Kookmin" weight="9.0"/>
+      <edge id="31301" source="Kyung_Hee" target="Kongju" weight="12.0"/>
+      <edge id="31302" source="Kyung_Hee" target="Chung_Ang" weight="15.0"/>
+      <edge id="31303" source="Kyung_Hee" target="Jeju" weight="7.0"/>
+      <edge id="31304" source="Kyung_Hee" target="Kyung_Hee_applied" weight="17.0"/>
+      <edge id="31305" source="Kyung_Hee" target="Soongsil" weight="18.0"/>
+      <edge id="31306" source="Kyung_Hee" target="Kwangwoon" weight="10.0"/>
+      <edge id="31307" source="Kyung_Hee" target="Hanyang" weight="22.0"/>
+      <edge id="31308" source="Kyung_Hee" target="Changwon" weight="17.0"/>
+      <edge id="31309" source="Kyung_Hee" target="Kunsan" weight="15.0"/>
+      <edge id="31310" source="Kyung_Hee" target="Seoul" weight="11.0"/>
+      <edge id="31311" source="Kyung_Hee" target="Yeungnam" weight="16.0"/>
+      <edge id="31312" source="Kyung_Hee" target="Chungnam" weight="21.0"/>
+      <edge id="31313" source="Kyung_Hee" target="Dankook" weight="16.0"/>
+      <edge id="31314" source="Kyung_Hee" target="Sejong" weight="16.0"/>
+      <edge id="31315" source="Kyung_Hee" target="Sogang" weight="19.0"/>
+      <edge id="31316" source="Kyung_Hee" target="UOS" weight="14.0"/>
+      <edge id="31317" source="Kyung_Hee" target="ChungBuk" weight="19.0"/>
+      <edge id="31318" source="Kyung_Hee" target="Yonsei_Mirae" weight="18.0"/>
+      <edge id="31319" source="Kyung_Hee" target="Ewha" weight="16.0"/>
+      <edge id="31320" source="Kyung_Hee" target="Chonnam" weight="10.0"/>
+      <edge id="31321" source="Kyung_Hee" target="Jeonbuk" weight="14.0"/>
+      <edge id="31322" source="Kyung_Hee" target="Yonsei" weight="18.0"/>
+      <edge id="31323" source="Kyung_Hee" target="POSTECH" weight="7.0"/>
+      <edge id="31324" source="Kyung_Hee" target="Hankuk" weight="11.0"/>
+      <edge id="31325" source="Kyung_Hee" target="Pusan" weight="13.0"/>
+      <edge id="31326" source="Kyung_Hee" target="KAIST" weight="14.0"/>
+      <edge id="31327" source="Kyung_Hee_applied" target="DGIST" weight="5.0"/>
+      <edge id="31328" source="Kyung_Hee_applied" target="Ajou" weight="8.0"/>
+      <edge id="31329" source="Kyung_Hee_applied" target="GIST" weight="9.0"/>
+      <edge id="31330" source="Kyung_Hee_applied" target="Korea_Sejong" weight="18.0"/>
+      <edge id="31331" source="Kyung_Hee_applied" target="Dongguk" weight="12.0"/>
+      <edge id="31332" source="Kyung_Hee_applied" target="Sungkyunkwan" weight="10.0"/>
+      <edge id="31333" source="Kyung_Hee_applied" target="Korea" weight="15.0"/>
+      <edge id="31334" source="Kyung_Hee_applied" target="Myongji" weight="15.0"/>
+      <edge id="31335" source="Kyung_Hee_applied" target="Inha" weight="22.0"/>
+      <edge id="31336" source="Kyung_Hee_applied" target="Incheon" weight="17.0"/>
+      <edge id="31337" source="Kyung_Hee_applied" target="Mokpo" weight="20.0"/>
+      <edge id="31338" source="Kyung_Hee_applied" target="Pukyong" weight="10.0"/>
+      <edge id="31339" source="Kyung_Hee_applied" target="Hanyang_ERICA" weight="22.0"/>
+      <edge id="31340" source="Kyung_Hee_applied" target="UNIST" weight="12.0"/>
+      <edge id="31341" source="Kyung_Hee_applied" target="Kongju" weight="12.0"/>
+      <edge id="31342" source="Kyung_Hee_applied" target="Kookmin" weight="12.0"/>
+      <edge id="31343" source="Kyung_Hee_applied" target="Chung_Ang" weight="17.0"/>
+      <edge id="31344" source="Kyung_Hee_applied" target="Jeju" weight="5.0"/>
+      <edge id="31345" source="Kyung_Hee_applied" target="Soongsil" weight="14.0"/>
+      <edge id="31346" source="Kyung_Hee_applied" target="Kwangwoon" weight="11.0"/>
+      <edge id="31347" source="Kyung_Hee_applied" target="Hanyang" weight="16.0"/>
+      <edge id="31348" source="Kyung_Hee_applied" target="Kunsan" weight="15.0"/>
+      <edge id="31349" source="Kyung_Hee_applied" target="Changwon" weight="15.0"/>
+      <edge id="31350" source="Kyung_Hee_applied" target="Seoul" weight="20.0"/>
+      <edge id="31351" source="Kyung_Hee_applied" target="Yeungnam" weight="18.0"/>
+      <edge id="31352" source="Kyung_Hee_applied" target="Chungnam" weight="23.0"/>
+      <edge id="31353" source="Kyung_Hee_applied" target="Dankook" weight="21.0"/>
+      <edge id="31354" source="Kyung_Hee_applied" target="Sejong" weight="11.0"/>
+      <edge id="31355" source="Kyung_Hee_applied" target="Sogang" weight="18.0"/>
+      <edge id="31356" source="Kyung_Hee_applied" target="UOS" weight="8.0"/>
+      <edge id="31357" source="Kyung_Hee_applied" target="ChungBuk" weight="16.0"/>
+      <edge id="31358" source="Kyung_Hee_applied" target="Yonsei_Mirae" weight="12.0"/>
+      <edge id="31359" source="Kyung_Hee_applied" target="Ewha" weight="11.0"/>
+      <edge id="31360" source="Kyung_Hee_applied" target="Chonnam" weight="16.0"/>
+      <edge id="31361" source="Kyung_Hee_applied" target="Jeonbuk" weight="16.0"/>
+      <edge id="31362" source="Kyung_Hee_applied" target="Yonsei" weight="12.0"/>
+      <edge id="31363" source="Kyung_Hee_applied" target="POSTECH" weight="17.0"/>
+      <edge id="31364" source="Kyung_Hee_applied" target="Hankuk" weight="10.0"/>
+      <edge id="31365" source="Kyung_Hee_applied" target="Pusan" weight="15.0"/>
+      <edge id="31366" source="Kyung_Hee_applied" target="KAIST" weight="19.0"/>
+      <edge id="31367" source="Korea" target="DGIST" weight="4.0"/>
+      <edge id="31368" source="Korea" target="Ajou" weight="8.0"/>
+      <edge id="31369" source="Korea" target="GIST" weight="12.0"/>
+      <edge id="31370" source="Korea" target="Korea_Sejong" weight="18.0"/>
+      <edge id="31371" source="Korea" target="Dongguk" weight="8.0"/>
+      <edge id="31372" source="Korea" target="Sungkyunkwan" weight="8.0"/>
+      <edge id="31373" source="Korea" target="Incheon" weight="12.0"/>
+      <edge id="31374" source="Korea" target="Pukyong" weight="10.0"/>
+      <edge id="31375" source="Korea" target="Inha" weight="16.0"/>
+      <edge id="31376" source="Korea" target="Mokpo" weight="11.0"/>
+      <edge id="31377" source="Korea" target="UNIST" weight="12.0"/>
+      <edge id="31378" source="Korea" target="Hanyang_ERICA" weight="10.0"/>
+      <edge id="31379" source="Korea" target="Myongji" weight="8.0"/>
+      <edge id="31380" source="Korea" target="Kookmin" weight="7.0"/>
+      <edge id="31381" source="Korea" target="Kongju" weight="11.0"/>
+      <edge id="31382" source="Korea" target="Chung_Ang" weight="17.0"/>
+      <edge id="31383" source="Korea" target="Jeju" weight="4.0"/>
+      <edge id="31384" source="Korea" target="Soongsil" weight="11.0"/>
+      <edge id="31385" source="Korea" target="Kwangwoon" weight="7.0"/>
+      <edge id="31386" source="Korea" target="Hanyang" weight="15.0"/>
+      <edge id="31387" source="Korea" target="Changwon" weight="10.0"/>
+      <edge id="31388" source="Korea" target="Kunsan" weight="11.0"/>
+      <edge id="31389" source="Korea" target="Seoul" weight="12.0"/>
+      <edge id="31390" source="Korea" target="Yeungnam" weight="12.0"/>
+      <edge id="31391" source="Korea" target="Chungnam" weight="14.0"/>
+      <edge id="31392" source="Korea" target="Dankook" weight="14.0"/>
+      <edge id="31393" source="Korea" target="Sejong" weight="8.0"/>
+      <edge id="31394" source="Korea" target="Sogang" weight="17.0"/>
+      <edge id="31395" source="Korea" target="UOS" weight="5.0"/>
+      <edge id="31396" source="Korea" target="ChungBuk" weight="12.0"/>
+      <edge id="31397" source="Korea" target="Yonsei_Mirae" weight="14.0"/>
+      <edge id="31398" source="Korea" target="Ewha" weight="14.0"/>
+      <edge id="31399" source="Korea" target="Chonnam" weight="16.0"/>
+      <edge id="31400" source="Korea" target="Jeonbuk" weight="10.0"/>
+      <edge id="31401" source="Korea" target="Yonsei" weight="14.0"/>
+      <edge id="31402" source="Korea" target="POSTECH" weight="13.0"/>
+      <edge id="31403" source="Korea" target="Hankuk" weight="6.0"/>
+      <edge id="31404" source="Korea" target="Pusan" weight="11.0"/>
+      <edge id="31405" source="Korea" target="KAIST" weight="15.0"/>
+      <edge id="31406" source="Korea_Sejong" target="DGIST" weight="5.0"/>
+      <edge id="31407" source="Korea_Sejong" target="Ajou" weight="11.0"/>
+      <edge id="31408" source="Korea_Sejong" target="GIST" weight="9.0"/>
+      <edge id="31409" source="Korea_Sejong" target="Dongguk" weight="10.0"/>
+      <edge id="31410" source="Korea_Sejong" target="Sungkyunkwan" weight="11.0"/>
+      <edge id="31411" source="Korea_Sejong" target="Incheon" weight="15.0"/>
+      <edge id="31412" source="Korea_Sejong" target="Inha" weight="15.0"/>
+      <edge id="31413" source="Korea_Sejong" target="Pukyong" weight="9.0"/>
+      <edge id="31414" source="Korea_Sejong" target="Mokpo" weight="16.0"/>
+      <edge id="31415" source="Korea_Sejong" target="UNIST" weight="10.0"/>
+      <edge id="31416" source="Korea_Sejong" target="Hanyang_ERICA" weight="12.0"/>
+      <edge id="31417" source="Korea_Sejong" target="Myongji" weight="8.0"/>
+      <edge id="31418" source="Korea_Sejong" target="Kookmin" weight="11.0"/>
+      <edge id="31419" source="Korea_Sejong" target="Kongju" weight="14.0"/>
+      <edge id="31420" source="Korea_Sejong" target="Chung_Ang" weight="16.0"/>
+      <edge id="31421" source="Korea_Sejong" target="Jeju" weight="8.0"/>
+      <edge id="31422" source="Korea_Sejong" target="Soongsil" weight="13.0"/>
+      <edge id="31423" source="Korea_Sejong" target="Kwangwoon" weight="14.0"/>
+      <edge id="31424" source="Korea_Sejong" target="Hanyang" weight="16.0"/>
+      <edge id="31425" source="Korea_Sejong" target="Kunsan" weight="18.0"/>
+      <edge id="31426" source="Korea_Sejong" target="Changwon" weight="15.0"/>
+      <edge id="31427" source="Korea_Sejong" target="Seoul" weight="13.0"/>
+      <edge id="31428" source="Korea_Sejong" target="Yeungnam" weight="15.0"/>
+      <edge id="31429" source="Korea_Sejong" target="Chungnam" weight="22.0"/>
+      <edge id="31430" source="Korea_Sejong" target="Dankook" weight="19.0"/>
+      <edge id="31431" source="Korea_Sejong" target="Sejong" weight="10.0"/>
+      <edge id="31432" source="Korea_Sejong" target="Sogang" weight="16.0"/>
+      <edge id="31433" source="Korea_Sejong" target="UOS" weight="7.0"/>
+      <edge id="31434" source="Korea_Sejong" target="ChungBuk" weight="16.0"/>
+      <edge id="31435" source="Korea_Sejong" target="Ewha" weight="10.0"/>
+      <edge id="31436" source="Korea_Sejong" target="Yonsei_Mirae" weight="11.0"/>
+      <edge id="31437" source="Korea_Sejong" target="Chonnam" weight="14.0"/>
+      <edge id="31438" source="Korea_Sejong" target="Jeonbuk" weight="14.0"/>
+      <edge id="31439" source="Korea_Sejong" target="Yonsei" weight="13.0"/>
+      <edge id="31440" source="Korea_Sejong" target="POSTECH" weight="8.0"/>
+      <edge id="31441" source="Korea_Sejong" target="Hankuk" weight="12.0"/>
+      <edge id="31442" source="Korea_Sejong" target="Pusan" weight="11.0"/>
+      <edge id="31443" source="Korea_Sejong" target="KAIST" weight="17.0"/>
+      <edge id="31444" source="Kongju" target="DGIST" weight="4.0"/>
+      <edge id="31445" source="Kongju" target="Ajou" weight="12.0"/>
+      <edge id="31446" source="Kongju" target="GIST" weight="6.0"/>
+      <edge id="31447" source="Kongju" target="Dongguk" weight="9.0"/>
+      <edge id="31448" source="Kongju" target="Sungkyunkwan" weight="9.0"/>
+      <edge id="31449" source="Kongju" target="Incheon" weight="13.0"/>
+      <edge id="31450" source="Kongju" target="Inha" weight="15.0"/>
+      <edge id="31451" source="Kongju" target="Pukyong" weight="9.0"/>
+      <edge id="31452" source="Kongju" target="Mokpo" weight="9.0"/>
+      <edge id="31453" source="Kongju" target="UNIST" weight="9.0"/>
+      <edge id="31454" source="Kongju" target="Hanyang_ERICA" weight="9.0"/>
+      <edge id="31455" source="Kongju" target="Myongji" weight="5.0"/>
+      <edge id="31456" source="Kongju" target="Kookmin" weight="8.0"/>
+      <edge id="31457" source="Kongju" target="Chung_Ang" weight="14.0"/>
+      <edge id="31458" source="Kongju" target="Jeju" weight="7.0"/>
+      <edge id="31459" source="Kongju" target="Soongsil" weight="16.0"/>
+      <edge id="31460" source="Kongju" target="Kwangwoon" weight="12.0"/>
+      <edge id="31461" source="Kongju" target="Hanyang" weight="16.0"/>
+      <edge id="31462" source="Kongju" target="Changwon" weight="13.0"/>
+      <edge id="31463" source="Kongju" target="Kunsan" weight="13.0"/>
+      <edge id="31464" source="Kongju" target="Yeungnam" weight="13.0"/>
+      <edge id="31465" source="Kongju" target="Seoul" weight="7.0"/>
+      <edge id="31466" source="Kongju" target="Chungnam" weight="13.0"/>
+      <edge id="31467" source="Kongju" target="Dankook" weight="15.0"/>
+      <edge id="31468" source="Kongju" target="Sejong" weight="12.0"/>
+      <edge id="31469" source="Kongju" target="Sogang" weight="11.0"/>
+      <edge id="31470" source="Kongju" target="UOS" weight="7.0"/>
+      <edge id="31471" source="Kongju" target="ChungBuk" weight="16.0"/>
+      <edge id="31472" source="Kongju" target="Yonsei_Mirae" weight="13.0"/>
+      <edge id="31473" source="Kongju" target="Ewha" weight="10.0"/>
+      <edge id="31474" source="Kongju" target="Chonnam" weight="11.0"/>
+      <edge id="31475" source="Kongju" target="Jeonbuk" weight="11.0"/>
+      <edge id="31476" source="Kongju" target="Yonsei" weight="11.0"/>
+      <edge id="31477" source="Kongju" target="POSTECH" weight="9.0"/>
+      <edge id="31478" source="Kongju" target="Hankuk" weight="8.0"/>
+      <edge id="31479" source="Kongju" target="Pusan" weight="14.0"/>
+      <edge id="31480" source="Kongju" target="KAIST" weight="12.0"/>
+      <edge id="31481" source="Kwangwoon" target="DGIST" weight="4.0"/>
+      <edge id="31482" source="Kwangwoon" target="GIST" weight="8.0"/>
+      <edge id="31483" source="Kwangwoon" target="Ajou" weight="9.0"/>
+      <edge id="31484" source="Kwangwoon" target="Dongguk" weight="8.0"/>
+      <edge id="31485" source="Kwangwoon" target="Sungkyunkwan" weight="10.0"/>
+      <edge id="31486" source="Kwangwoon" target="Incheon" weight="10.0"/>
+      <edge id="31487" source="Kwangwoon" target="Inha" weight="10.0"/>
+      <edge id="31488" source="Kwangwoon" target="Pukyong" weight="6.0"/>
+      <edge id="31489" source="Kwangwoon" target="Mokpo" weight="8.0"/>
+      <edge id="31490" source="Kwangwoon" target="UNIST" weight="7.0"/>
+      <edge id="31491" source="Kwangwoon" target="Hanyang_ERICA" weight="11.0"/>
+      <edge id="31492" source="Kwangwoon" target="Myongji" weight="5.0"/>
+      <edge id="31493" source="Kwangwoon" target="Kookmin" weight="8.0"/>
+      <edge id="31494" source="Kwangwoon" target="Chung_Ang" weight="10.0"/>
+      <edge id="31495" source="Kwangwoon" target="Jeju" weight="6.0"/>
+      <edge id="31496" source="Kwangwoon" target="Soongsil" weight="13.0"/>
+      <edge id="31497" source="Kwangwoon" target="Hanyang" weight="12.0"/>
+      <edge id="31498" source="Kwangwoon" target="Changwon" weight="9.0"/>
+      <edge id="31499" source="Kwangwoon" target="Kunsan" weight="13.0"/>
+      <edge id="31500" source="Kwangwoon" target="Yeungnam" weight="11.0"/>
+      <edge id="31501" source="Kwangwoon" target="Seoul" weight="6.0"/>
+      <edge id="31502" source="Kwangwoon" target="Chungnam" weight="15.0"/>
+      <edge id="31503" source="Kwangwoon" target="Dankook" weight="12.0"/>
+      <edge id="31504" source="Kwangwoon" target="Sejong" weight="4.0"/>
+      <edge id="31505" source="Kwangwoon" target="Sogang" weight="10.0"/>
+      <edge id="31506" source="Kwangwoon" target="UOS" weight="7.0"/>
+      <edge id="31507" source="Kwangwoon" target="ChungBuk" weight="10.0"/>
+      <edge id="31508" source="Kwangwoon" target="Yonsei_Mirae" weight="7.0"/>
+      <edge id="31509" source="Kwangwoon" target="Ewha" weight="8.0"/>
+      <edge id="31510" source="Kwangwoon" target="Chonnam" weight="10.0"/>
+      <edge id="31511" source="Kwangwoon" target="Jeonbuk" weight="8.0"/>
+      <edge id="31512" source="Kwangwoon" target="Yonsei" weight="7.0"/>
+      <edge id="31513" source="Kwangwoon" target="POSTECH" weight="7.0"/>
+      <edge id="31514" source="Kwangwoon" target="Hankuk" weight="5.0"/>
+      <edge id="31515" source="Kwangwoon" target="Pusan" weight="11.0"/>
+      <edge id="31516" source="Kwangwoon" target="KAIST" weight="8.0"/>
+      <edge id="31517" source="GIST" target="DGIST" weight="2.0"/>
+      <edge id="31518" source="GIST" target="Ajou" weight="4.0"/>
+      <edge id="31519" source="GIST" target="Dongguk" weight="2.0"/>
+      <edge id="31520" source="GIST" target="Sungkyunkwan" weight="5.0"/>
+      <edge id="31521" source="GIST" target="Myongji" weight="9.0"/>
+      <edge id="31522" source="GIST" target="Inha" weight="9.0"/>
+      <edge id="31523" source="GIST" target="Pukyong" weight="5.0"/>
+      <edge id="31524" source="GIST" target="Mokpo" weight="5.0"/>
+      <edge id="31525" source="GIST" target="UNIST" weight="8.0"/>
+      <edge id="31526" source="GIST" target="Hanyang_ERICA" weight="9.0"/>
+      <edge id="31527" source="GIST" target="Incheon" weight="7.0"/>
+      <edge id="31528" source="GIST" target="Kookmin" weight="5.0"/>
+      <edge id="31529" source="GIST" target="Chung_Ang" weight="14.0"/>
+      <edge id="31530" source="GIST" target="Jeju" weight="3.0"/>
+      <edge id="31531" source="GIST" target="Soongsil" weight="9.0"/>
+      <edge id="31532" source="GIST" target="Kunsan" weight="11.0"/>
+      <edge id="31533" source="GIST" target="Changwon" weight="8.0"/>
+      <edge id="31534" source="GIST" target="Hanyang" weight="7.0"/>
+      <edge id="31535" source="GIST" target="Seoul" weight="7.0"/>
+      <edge id="31536" source="GIST" target="Yeungnam" weight="7.0"/>
+      <edge id="31537" source="GIST" target="Chungnam" weight="9.0"/>
+      <edge id="31538" source="GIST" target="Dankook" weight="9.0"/>
+      <edge id="31539" source="GIST" target="Sejong" weight="3.0"/>
+      <edge id="31540" source="GIST" target="Sogang" weight="10.0"/>
+      <edge id="31541" source="GIST" target="UOS" weight="10.0"/>
+      <edge id="31542" source="GIST" target="ChungBuk" weight="6.0"/>
+      <edge id="31543" source="GIST" target="Ewha" weight="6.0"/>
+      <edge id="31544" source="GIST" target="Yonsei_Mirae" weight="6.0"/>
+      <edge id="31545" source="GIST" target="Chonnam" weight="11.0"/>
+      <edge id="31546" source="GIST" target="Jeonbuk" weight="11.0"/>
+      <edge id="31547" source="GIST" target="Yonsei" weight="5.0"/>
+      <edge id="31548" source="GIST" target="Hankuk" weight="10.0"/>
+      <edge id="31549" source="GIST" target="POSTECH" weight="8.0"/>
+      <edge id="31550" source="GIST" target="Pusan" weight="6.0"/>
+      <edge id="31551" source="GIST" target="KAIST" weight="12.0"/>
+      <edge id="31552" source="Kookmin" target="DGIST" weight="6.0"/>
+      <edge id="31553" source="Kookmin" target="Ajou" weight="8.0"/>
+      <edge id="31554" source="Kookmin" target="Dongguk" weight="6.0"/>
+      <edge id="31555" source="Kookmin" target="Sungkyunkwan" weight="7.0"/>
+      <edge id="31556" source="Kookmin" target="Myongji" weight="8.0"/>
+      <edge id="31557" source="Kookmin" target="Pukyong" weight="9.0"/>
+      <edge id="31558" source="Kookmin" target="Incheon" weight="9.0"/>
+      <edge id="31559" source="Kookmin" target="Mokpo" weight="10.0"/>
+      <edge id="31560" source="Kookmin" target="UNIST" weight="8.0"/>
+      <edge id="31561" source="Kookmin" target="Inha" weight="9.0"/>
+      <edge id="31562" source="Kookmin" target="Hanyang_ERICA" weight="7.0"/>
+      <edge id="31563" source="Kookmin" target="Chung_Ang" weight="10.0"/>
+      <edge id="31564" source="Kookmin" target="Jeju" weight="4.0"/>
+      <edge id="31565" source="Kookmin" target="Soongsil" weight="9.0"/>
+      <edge id="31566" source="Kookmin" target="Hanyang" weight="12.0"/>
+      <edge id="31567" source="Kookmin" target="Changwon" weight="8.0"/>
+      <edge id="31568" source="Kookmin" target="Kunsan" weight="11.0"/>
+      <edge id="31569" source="Kookmin" target="Yeungnam" weight="13.0"/>
+      <edge id="31570" source="Kookmin" target="Seoul" weight="8.0"/>
+      <edge id="31571" source="Kookmin" target="Chungnam" weight="12.0"/>
+      <edge id="31572" source="Kookmin" target="Dankook" weight="9.0"/>
+      <edge id="31573" source="Kookmin" target="Sejong" weight="4.0"/>
+      <edge id="31574" source="Kookmin" target="Sogang" weight="8.0"/>
+      <edge id="31575" source="Kookmin" target="UOS" weight="2.0"/>
+      <edge id="31576" source="Kookmin" target="ChungBuk" weight="11.0"/>
+      <edge id="31577" source="Kookmin" target="Ewha" weight="13.0"/>
+      <edge id="31578" source="Kookmin" target="Yonsei_Mirae" weight="7.0"/>
+      <edge id="31579" source="Kookmin" target="Chonnam" weight="8.0"/>
+      <edge id="31580" source="Kookmin" target="Jeonbuk" weight="9.0"/>
+      <edge id="31581" source="Kookmin" target="Yonsei" weight="9.0"/>
+      <edge id="31582" source="Kookmin" target="POSTECH" weight="8.0"/>
+      <edge id="31583" source="Kookmin" target="Hankuk" weight="3.0"/>
+      <edge id="31584" source="Kookmin" target="Pusan" weight="9.0"/>
+      <edge id="31585" source="Kookmin" target="KAIST" weight="12.0"/>
+      <edge id="31586" source="Kunsan" target="DGIST" weight="6.0"/>
+      <edge id="31587" source="Kunsan" target="Ajou" weight="17.0"/>
+      <edge id="31588" source="Kunsan" target="Dongguk" weight="13.0"/>
+      <edge id="31589" source="Kunsan" target="Sungkyunkwan" weight="13.0"/>
+      <edge id="31590" source="Kunsan" target="Myongji" weight="9.0"/>
+      <edge id="31591" source="Kunsan" target="Pukyong" weight="12.0"/>
+      <edge id="31592" source="Kunsan" target="Incheon" weight="19.0"/>
+      <edge id="31593" source="Kunsan" target="Mokpo" weight="17.0"/>
+      <edge id="31594" source="Kunsan" target="UNIST" weight="11.0"/>
+      <edge id="31595" source="Kunsan" target="Inha" weight="16.0"/>
+      <edge id="31596" source="Kunsan" target="Hanyang_ERICA" weight="13.0"/>
+      <edge id="31597" source="Kunsan" target="Chung_Ang" weight="15.0"/>
+      <edge id="31598" source="Kunsan" target="Jeju" weight="11.0"/>
+      <edge id="31599" source="Kunsan" target="Soongsil" weight="13.0"/>
+      <edge id="31600" source="Kunsan" target="Changwon" weight="16.0"/>
+      <edge id="31601" source="Kunsan" target="Hanyang" weight="17.0"/>
+      <edge id="31602" source="Kunsan" target="Seoul" weight="15.0"/>
+      <edge id="31603" source="Kunsan" target="Yeungnam" weight="20.0"/>
+      <edge id="31604" source="Kunsan" target="Chungnam" weight="21.0"/>
+      <edge id="31605" source="Kunsan" target="Dankook" weight="21.0"/>
+      <edge id="31606" source="Kunsan" target="Sejong" weight="10.0"/>
+      <edge id="31607" source="Kunsan" target="Sogang" weight="18.0"/>
+      <edge id="31608" source="Kunsan" target="UOS" weight="10.0"/>
+      <edge id="31609" source="Kunsan" target="ChungBuk" weight="16.0"/>
+      <edge id="31610" source="Kunsan" target="Yonsei_Mirae" weight="10.0"/>
+      <edge id="31611" source="Kunsan" target="Ewha" weight="11.0"/>
+      <edge id="31612" source="Kunsan" target="Chonnam" weight="14.0"/>
+      <edge id="31613" source="Kunsan" target="Jeonbuk" weight="17.0"/>
+      <edge id="31614" source="Kunsan" target="Yonsei" weight="11.0"/>
+      <edge id="31615" source="Kunsan" target="Hankuk" weight="12.0"/>
+      <edge id="31616" source="Kunsan" target="POSTECH" weight="11.0"/>
+      <edge id="31617" source="Kunsan" target="Pusan" weight="18.0"/>
+      <edge id="31618" source="Kunsan" target="KAIST" weight="18.0"/>
+      <edge id="31619" source="Dankook" target="DGIST" weight="6.0"/>
+      <edge id="31620" source="Dankook" target="Ajou" weight="19.0"/>
+      <edge id="31621" source="Dankook" target="Dongguk" weight="10.0"/>
+      <edge id="31622" source="Dankook" target="Sungkyunkwan" weight="9.0"/>
+      <edge id="31623" source="Dankook" target="Incheon" weight="27.0"/>
+      <edge id="31624" source="Dankook" target="Inha" weight="22.0"/>
+      <edge id="31625" source="Dankook" target="Myongji" weight="14.0"/>
+      <edge id="31626" source="Dankook" target="Mokpo" weight="21.0"/>
+      <edge id="31627" source="Dankook" target="Pukyong" weight="16.0"/>
+      <edge id="31628" source="Dankook" target="Hanyang_ERICA" weight="16.0"/>
+      <edge id="31629" source="Dankook" target="UNIST" weight="9.0"/>
+      <edge id="31630" source="Dankook" target="Chung_Ang" weight="19.0"/>
+      <edge id="31631" source="Dankook" target="Jeju" weight="8.0"/>
+      <edge id="31632" source="Dankook" target="Soongsil" weight="15.0"/>
+      <edge id="31633" source="Dankook" target="Hanyang" weight="17.0"/>
+      <edge id="31634" source="Dankook" target="Changwon" weight="19.0"/>
+      <edge id="31635" source="Dankook" target="Yeungnam" weight="21.0"/>
+      <edge id="31636" source="Dankook" target="Seoul" weight="16.0"/>
+      <edge id="31637" source="Dankook" target="Chungnam" weight="22.0"/>
+      <edge id="31638" source="Dankook" target="Sejong" weight="8.0"/>
+      <edge id="31639" source="Dankook" target="Sogang" weight="22.0"/>
+      <edge id="31640" source="Dankook" target="UOS" weight="6.0"/>
+      <edge id="31641" source="Dankook" target="ChungBuk" weight="12.0"/>
+      <edge id="31642" source="Dankook" target="Ewha" weight="11.0"/>
+      <edge id="31643" source="Dankook" target="Yonsei_Mirae" weight="12.0"/>
+      <edge id="31644" source="Dankook" target="Chonnam" weight="18.0"/>
+      <edge id="31645" source="Dankook" target="Jeonbuk" weight="15.0"/>
+      <edge id="31646" source="Dankook" target="Yonsei" weight="11.0"/>
+      <edge id="31647" source="Dankook" target="POSTECH" weight="15.0"/>
+      <edge id="31648" source="Dankook" target="Hankuk" weight="13.0"/>
+      <edge id="31649" source="Dankook" target="Pusan" weight="17.0"/>
+      <edge id="31650" source="Dankook" target="KAIST" weight="17.0"/>
+      <edge id="31651" source="DGIST" target="Ajou" weight="3.0"/>
+      <edge id="31652" source="DGIST" target="Dongguk" weight="5.0"/>
+      <edge id="31653" source="DGIST" target="Sungkyunkwan" weight="2.0"/>
+      <edge id="31654" source="DGIST" target="Myongji" weight="8.0"/>
+      <edge id="31655" source="DGIST" target="Incheon" weight="7.0"/>
+      <edge id="31656" source="DGIST" target="Pukyong" weight="3.0"/>
+      <edge id="31657" source="DGIST" target="Mokpo" weight="6.0"/>
+      <edge id="31658" source="DGIST" target="UNIST" weight="3.0"/>
+      <edge id="31659" source="DGIST" target="Hanyang_ERICA" weight="3.0"/>
+      <edge id="31660" source="DGIST" target="Inha" weight="4.0"/>
+      <edge id="31661" source="DGIST" target="Chung_Ang" weight="2.0"/>
+      <edge id="31662" source="DGIST" target="Jeju" weight="7.0"/>
+      <edge id="31663" source="DGIST" target="Soongsil" weight="3.0"/>
+      <edge id="31664" source="DGIST" target="Changwon" weight="6.0"/>
+      <edge id="31665" source="DGIST" target="Hanyang" weight="4.0"/>
+      <edge id="31666" source="DGIST" target="Seoul" weight="4.0"/>
+      <edge id="31667" source="DGIST" target="Yeungnam" weight="5.0"/>
+      <edge id="31668" source="DGIST" target="Chungnam" weight="6.0"/>
+      <edge id="31669" source="DGIST" target="Sejong" weight="6.0"/>
+      <edge id="31670" source="DGIST" target="Sogang" weight="4.0"/>
+      <edge id="31671" source="DGIST" target="UOS" weight="3.0"/>
+      <edge id="31672" source="DGIST" target="ChungBuk" weight="5.0"/>
+      <edge id="31673" source="DGIST" target="Yonsei_Mirae" weight="4.0"/>
+      <edge id="31674" source="DGIST" target="Ewha" weight="2.0"/>
+      <edge id="31675" source="DGIST" target="Chonnam" weight="5.0"/>
+      <edge id="31676" source="DGIST" target="Jeonbuk" weight="4.0"/>
+      <edge id="31677" source="DGIST" target="Yonsei" weight="5.0"/>
+      <edge id="31678" source="DGIST" target="POSTECH" weight="3.0"/>
+      <edge id="31679" source="DGIST" target="Hankuk" weight="2.0"/>
+      <edge id="31680" source="DGIST" target="Pusan" weight="3.0"/>
+      <edge id="31681" source="DGIST" target="KAIST" weight="5.0"/>
+      <edge id="31682" source="Dongguk" target="Ajou" weight="8.0"/>
+      <edge id="31683" source="Dongguk" target="Sungkyunkwan" weight="12.0"/>
+      <edge id="31684" source="Dongguk" target="Myongji" weight="6.0"/>
+      <edge id="31685" source="Dongguk" target="Inha" weight="16.0"/>
+      <edge id="31686" source="Dongguk" target="Pukyong" weight="14.0"/>
+      <edge id="31687" source="Dongguk" target="Mokpo" weight="13.0"/>
+      <edge id="31688" source="Dongguk" target="UNIST" weight="10.0"/>
+      <edge id="31689" source="Dongguk" target="Hanyang_ERICA" weight="8.0"/>
+      <edge id="31690" source="Dongguk" target="Incheon" weight="14.0"/>
+      <edge id="31691" source="Dongguk" target="Chung_Ang" weight="13.0"/>
+      <edge id="31692" source="Dongguk" target="Jeju" weight="7.0"/>
+      <edge id="31693" source="Dongguk" target="Soongsil" weight="12.0"/>
+      <edge id="31694" source="Dongguk" target="Hanyang" weight="11.0"/>
+      <edge id="31695" source="Dongguk" target="Changwon" weight="13.0"/>
+      <edge id="31696" source="Dongguk" target="Seoul" weight="9.0"/>
+      <edge id="31697" source="Dongguk" target="Yeungnam" weight="9.0"/>
+      <edge id="31698" source="Dongguk" target="Chungnam" weight="12.0"/>
+      <edge id="31699" source="Dongguk" target="Sejong" weight="12.0"/>
+      <edge id="31700" source="Dongguk" target="Sogang" weight="12.0"/>
+      <edge id="31701" source="Dongguk" target="UOS" weight="10.0"/>
+      <edge id="31702" source="Dongguk" target="ChungBuk" weight="14.0"/>
+      <edge id="31703" source="Dongguk" target="Yonsei_Mirae" weight="11.0"/>
+      <edge id="31704" source="Dongguk" target="Ewha" weight="14.0"/>
+      <edge id="31705" source="Dongguk" target="Chonnam" weight="9.0"/>
+      <edge id="31706" source="Dongguk" target="Jeonbuk" weight="12.0"/>
+      <edge id="31707" source="Dongguk" target="Yonsei" weight="16.0"/>
+      <edge id="31708" source="Dongguk" target="POSTECH" weight="7.0"/>
+      <edge id="31709" source="Dongguk" target="Hankuk" weight="9.0"/>
+      <edge id="31710" source="Dongguk" target="Pusan" weight="12.0"/>
+      <edge id="31711" source="Dongguk" target="KAIST" weight="12.0"/>
+      <edge id="31712" source="Myongji" target="Ajou" weight="8.0"/>
+      <edge id="31713" source="Myongji" target="Sungkyunkwan" weight="2.0"/>
+      <edge id="31714" source="Myongji" target="Inha" weight="13.0"/>
+      <edge id="31715" source="Myongji" target="Incheon" weight="6.0"/>
+      <edge id="31716" source="Myongji" target="Mokpo" weight="11.0"/>
+      <edge id="31717" source="Myongji" target="UNIST" weight="5.0"/>
+      <edge id="31718" source="Myongji" target="Hanyang_ERICA" weight="12.0"/>
+      <edge id="31719" source="Myongji" target="Pukyong" weight="3.0"/>
+      <edge id="31720" source="Myongji" target="Chung_Ang" weight="9.0"/>
+      <edge id="31721" source="Myongji" target="Jeju" weight="4.0"/>
+      <edge id="31722" source="Myongji" target="Soongsil" weight="5.0"/>
+      <edge id="31723" source="Myongji" target="Changwon" weight="9.0"/>
+      <edge id="31724" source="Myongji" target="Hanyang" weight="4.0"/>
+      <edge id="31725" source="Myongji" target="Seoul" weight="15.0"/>
+      <edge id="31726" source="Myongji" target="Yeungnam" weight="11.0"/>
+      <edge id="31727" source="Myongji" target="Chungnam" weight="9.0"/>
+      <edge id="31728" source="Myongji" target="Sejong" weight="4.0"/>
+      <edge id="31729" source="Myongji" target="Sogang" weight="7.0"/>
+      <edge id="31730" source="Myongji" target="UOS" weight="6.0"/>
+      <edge id="31731" source="Myongji" target="ChungBuk" weight="6.0"/>
+      <edge id="31732" source="Myongji" target="Ewha" weight="5.0"/>
+      <edge id="31733" source="Myongji" target="Yonsei_Mirae" weight="2.0"/>
+      <edge id="31734" source="Myongji" target="Chonnam" weight="15.0"/>
+      <edge id="31735" source="Myongji" target="Jeonbuk" weight="6.0"/>
+      <edge id="31736" source="Myongji" target="Yonsei" weight="4.0"/>
+      <edge id="31737" source="Myongji" target="POSTECH" weight="12.0"/>
+      <edge id="31738" source="Myongji" target="Hankuk" weight="6.0"/>
+      <edge id="31739" source="Myongji" target="Pusan" weight="5.0"/>
+      <edge id="31740" source="Myongji" target="KAIST" weight="7.0"/>
+      <edge id="31741" source="Mokpo" target="Ajou" weight="8.0"/>
+      <edge id="31742" source="Mokpo" target="Sungkyunkwan" weight="7.0"/>
+      <edge id="31743" source="Mokpo" target="Inha" weight="16.0"/>
+      <edge id="31744" source="Mokpo" target="Pukyong" weight="13.0"/>
+      <edge id="31745" source="Mokpo" target="UNIST" weight="9.0"/>
+      <edge id="31746" source="Mokpo" target="Hanyang_ERICA" weight="14.0"/>
+      <edge id="31747" source="Mokpo" target="Incheon" weight="18.0"/>
+      <edge id="31748" source="Mokpo" target="Chung_Ang" weight="14.0"/>
+      <edge id="31749" source="Mokpo" target="Jeju" weight="9.0"/>
+      <edge id="31750" source="Mokpo" target="Soongsil" weight="10.0"/>
+      <edge id="31751" source="Mokpo" target="Hanyang" weight="11.0"/>
+      <edge id="31752" source="Mokpo" target="Changwon" weight="18.0"/>
+      <edge id="31753" source="Mokpo" target="Seoul" weight="17.0"/>
+      <edge id="31754" source="Mokpo" target="Yeungnam" weight="15.0"/>
+      <edge id="31755" source="Mokpo" target="Chungnam" weight="17.0"/>
+      <edge id="31756" source="Mokpo" target="Sejong" weight="9.0"/>
+      <edge id="31757" source="Mokpo" target="Sogang" weight="15.0"/>
+      <edge id="31758" source="Mokpo" target="UOS" weight="8.0"/>
+      <edge id="31759" source="Mokpo" target="ChungBuk" weight="11.0"/>
+      <edge id="31760" source="Mokpo" target="Ewha" weight="8.0"/>
+      <edge id="31761" source="Mokpo" target="Yonsei_Mirae" weight="11.0"/>
+      <edge id="31762" source="Mokpo" target="Chonnam" weight="12.0"/>
+      <edge id="31763" source="Mokpo" target="Jeonbuk" weight="14.0"/>
+      <edge id="31764" source="Mokpo" target="Yonsei" weight="12.0"/>
+      <edge id="31765" source="Mokpo" target="POSTECH" weight="13.0"/>
+      <edge id="31766" source="Mokpo" target="Hankuk" weight="13.0"/>
+      <edge id="31767" source="Mokpo" target="Pusan" weight="14.0"/>
+      <edge id="31768" source="Mokpo" target="KAIST" weight="15.0"/>
+      <edge id="31769" source="Pukyong" target="Ajou" weight="11.0"/>
+      <edge id="31770" source="Pukyong" target="Sungkyunkwan" weight="15.0"/>
+      <edge id="31771" source="Pukyong" target="Incheon" weight="18.0"/>
+      <edge id="31772" source="Pukyong" target="Inha" weight="13.0"/>
+      <edge id="31773" source="Pukyong" target="UNIST" weight="11.0"/>
+      <edge id="31774" source="Pukyong" target="Hanyang_ERICA" weight="6.0"/>
+      <edge id="31775" source="Pukyong" target="Chung_Ang" weight="17.0"/>
+      <edge id="31776" source="Pukyong" target="Jeju" weight="9.0"/>
+      <edge id="31777" source="Pukyong" target="Soongsil" weight="13.0"/>
+      <edge id="31778" source="Pukyong" target="Hanyang" weight="13.0"/>
+      <edge id="31779" source="Pukyong" target="Changwon" weight="19.0"/>
+      <edge id="31780" source="Pukyong" target="Yeungnam" weight="13.0"/>
+      <edge id="31781" source="Pukyong" target="Seoul" weight="6.0"/>
+      <edge id="31782" source="Pukyong" target="Chungnam" weight="19.0"/>
+      <edge id="31783" source="Pukyong" target="Sejong" weight="9.0"/>
+      <edge id="31784" source="Pukyong" target="Sogang" weight="20.0"/>
+      <edge id="31785" source="Pukyong" target="UOS" weight="8.0"/>
+      <edge id="31786" source="Pukyong" target="ChungBuk" weight="14.0"/>
+      <edge id="31787" source="Pukyong" target="Yonsei_Mirae" weight="13.0"/>
+      <edge id="31788" source="Pukyong" target="Ewha" weight="16.0"/>
+      <edge id="31789" source="Pukyong" target="Chonnam" weight="16.0"/>
+      <edge id="31790" source="Pukyong" target="Jeonbuk" weight="19.0"/>
+      <edge id="31791" source="Pukyong" target="Yonsei" weight="20.0"/>
+      <edge id="31792" source="Pukyong" target="Hankuk" weight="8.0"/>
+      <edge id="31793" source="Pukyong" target="POSTECH" weight="7.0"/>
+      <edge id="31794" source="Pukyong" target="Pusan" weight="11.0"/>
+      <edge id="31795" source="Pukyong" target="KAIST" weight="17.0"/>
+      <edge id="31796" source="Pusan" target="Ajou" weight="10.0"/>
+      <edge id="31797" source="Pusan" target="Sungkyunkwan" weight="11.0"/>
+      <edge id="31798" source="Pusan" target="Incheon" weight="20.0"/>
+      <edge id="31799" source="Pusan" target="Inha" weight="20.0"/>
+      <edge id="31800" source="Pusan" target="UNIST" weight="15.0"/>
+      <edge id="31801" source="Pusan" target="Hanyang_ERICA" weight="15.0"/>
+      <edge id="31802" source="Pusan" target="Chung_Ang" weight="18.0"/>
+      <edge id="31803" source="Pusan" target="Jeju" weight="6.0"/>
+      <edge id="31804" source="Pusan" target="Soongsil" weight="18.0"/>
+      <edge id="31805" source="Pusan" target="Hanyang" weight="19.0"/>
+      <edge id="31806" source="Pusan" target="Changwon" weight="16.0"/>
+      <edge id="31807" source="Pusan" target="Yeungnam" weight="13.0"/>
+      <edge id="31808" source="Pusan" target="Seoul" weight="13.0"/>
+      <edge id="31809" source="Pusan" target="Chungnam" weight="17.0"/>
+      <edge id="31810" source="Pusan" target="Sejong" weight="10.0"/>
+      <edge id="31811" source="Pusan" target="Sogang" weight="15.0"/>
+      <edge id="31812" source="Pusan" target="UOS" weight="9.0"/>
+      <edge id="31813" source="Pusan" target="ChungBuk" weight="15.0"/>
+      <edge id="31814" source="Pusan" target="Yonsei_Mirae" weight="14.0"/>
+      <edge id="31815" source="Pusan" target="Ewha" weight="12.0"/>
+      <edge id="31816" source="Pusan" target="Chonnam" weight="14.0"/>
+      <edge id="31817" source="Pusan" target="Jeonbuk" weight="15.0"/>
+      <edge id="31818" source="Pusan" target="Yonsei" weight="12.0"/>
+      <edge id="31819" source="Pusan" target="POSTECH" weight="14.0"/>
+      <edge id="31820" source="Pusan" target="Hankuk" weight="9.0"/>
+      <edge id="31821" source="Pusan" target="KAIST" weight="18.0"/>
+      <edge id="31822" source="Sogang" target="Ajou" weight="14.0"/>
+      <edge id="31823" source="Sogang" target="Sungkyunkwan" weight="14.0"/>
+      <edge id="31824" source="Sogang" target="Incheon" weight="21.0"/>
+      <edge id="31825" source="Sogang" target="Inha" weight="17.0"/>
+      <edge id="31826" source="Sogang" target="UNIST" weight="16.0"/>
+      <edge id="31827" source="Sogang" target="Hanyang_ERICA" weight="10.0"/>
+      <edge id="31828" source="Sogang" target="Chung_Ang" weight="20.0"/>
+      <edge id="31829" source="Sogang" target="Jeju" weight="9.0"/>
+      <edge id="31830" source="Sogang" target="Soongsil" weight="15.0"/>
+      <edge id="31831" source="Sogang" target="Changwon" weight="17.0"/>
+      <edge id="31832" source="Sogang" target="Hanyang" weight="18.0"/>
+      <edge id="31833" source="Sogang" target="Seoul" weight="13.0"/>
+      <edge id="31834" source="Sogang" target="Yeungnam" weight="14.0"/>
+      <edge id="31835" source="Sogang" target="Chungnam" weight="27.0"/>
+      <edge id="31836" source="Sogang" target="Sejong" weight="12.0"/>
+      <edge id="31837" source="Sogang" target="UOS" weight="10.0"/>
+      <edge id="31838" source="Sogang" target="ChungBuk" weight="18.0"/>
+      <edge id="31839" source="Sogang" target="Yonsei_Mirae" weight="13.0"/>
+      <edge id="31840" source="Sogang" target="Ewha" weight="20.0"/>
+      <edge id="31841" source="Sogang" target="Chonnam" weight="20.0"/>
+      <edge id="31842" source="Sogang" target="Jeonbuk" weight="22.0"/>
+      <edge id="31843" source="Sogang" target="Yonsei" weight="17.0"/>
+      <edge id="31844" source="Sogang" target="POSTECH" weight="13.0"/>
+      <edge id="31845" source="Sogang" target="Hankuk" weight="9.0"/>
+      <edge id="31846" source="Sogang" target="KAIST" weight="23.0"/>
+      <edge id="31847" source="Seoul" target="Ajou" weight="6.0"/>
+      <edge id="31848" source="Seoul" target="Sungkyunkwan" weight="7.0"/>
+      <edge id="31849" source="Seoul" target="Inha" weight="17.0"/>
+      <edge id="31850" source="Seoul" target="UNIST" weight="10.0"/>
+      <edge id="31851" source="Seoul" target="Hanyang_ERICA" weight="14.0"/>
+      <edge id="31852" source="Seoul" target="Incheon" weight="12.0"/>
+      <edge id="31853" source="Seoul" target="Chung_Ang" weight="13.0"/>
+      <edge id="31854" source="Seoul" target="Jeju" weight="5.0"/>
+      <edge id="31855" source="Seoul" target="Soongsil" weight="8.0"/>
+      <edge id="31856" source="Seoul" target="Changwon" weight="8.0"/>
+      <edge id="31857" source="Seoul" target="Hanyang" weight="7.0"/>
+      <edge id="31858" source="Seoul" target="Yeungnam" weight="13.0"/>
+      <edge id="31859" source="Seoul" target="Chungnam" weight="18.0"/>
+      <edge id="31860" source="Seoul" target="Sejong" weight="8.0"/>
+      <edge id="31861" source="Seoul" target="UOS" weight="8.0"/>
+      <edge id="31862" source="Seoul" target="ChungBuk" weight="9.0"/>
+      <edge id="31863" source="Seoul" target="Yonsei_Mirae" weight="6.0"/>
+      <edge id="31864" source="Seoul" target="Ewha" weight="10.0"/>
+      <edge id="31865" source="Seoul" target="Chonnam" weight="13.0"/>
+      <edge id="31866" source="Seoul" target="Jeonbuk" weight="9.0"/>
+      <edge id="31867" source="Seoul" target="Yonsei" weight="5.0"/>
+      <edge id="31868" source="Seoul" target="POSTECH" weight="18.0"/>
+      <edge id="31869" source="Seoul" target="Hankuk" weight="9.0"/>
+      <edge id="31870" source="Seoul" target="KAIST" weight="11.0"/>
+      <edge id="31871" source="UOS" target="Ajou" weight="4.0"/>
+      <edge id="31872" source="UOS" target="Sungkyunkwan" weight="7.0"/>
+      <edge id="31873" source="UOS" target="Inha" weight="9.0"/>
+      <edge id="31874" source="UOS" target="UNIST" weight="5.0"/>
+      <edge id="31875" source="UOS" target="Hanyang_ERICA" weight="7.0"/>
+      <edge id="31876" source="UOS" target="Incheon" weight="9.0"/>
+      <edge id="31877" source="UOS" target="Chung_Ang" weight="7.0"/>
+      <edge id="31878" source="UOS" target="Jeju" weight="12.0"/>
+      <edge id="31879" source="UOS" target="Soongsil" weight="8.0"/>
+      <edge id="31880" source="UOS" target="Hanyang" weight="7.0"/>
+      <edge id="31881" source="UOS" target="Changwon" weight="10.0"/>
+      <edge id="31882" source="UOS" target="Yeungnam" weight="7.0"/>
+      <edge id="31883" source="UOS" target="Chungnam" weight="12.0"/>
+      <edge id="31884" source="UOS" target="Sejong" weight="8.0"/>
+      <edge id="31885" source="UOS" target="ChungBuk" weight="7.0"/>
+      <edge id="31886" source="UOS" target="Yonsei_Mirae" weight="7.0"/>
+      <edge id="31887" source="UOS" target="Ewha" weight="7.0"/>
+      <edge id="31888" source="UOS" target="Chonnam" weight="8.0"/>
+      <edge id="31889" source="UOS" target="Jeonbuk" weight="9.0"/>
+      <edge id="31890" source="UOS" target="Yonsei" weight="7.0"/>
+      <edge id="31891" source="UOS" target="Hankuk" weight="12.0"/>
+      <edge id="31892" source="UOS" target="POSTECH" weight="6.0"/>
+      <edge id="31893" source="UOS" target="KAIST" weight="7.0"/>
+      <edge id="31894" source="Sungkyunkwan" target="Ajou" weight="10.0"/>
+      <edge id="31895" source="Sungkyunkwan" target="Incheon" weight="11.0"/>
+      <edge id="31896" source="Sungkyunkwan" target="Inha" weight="14.0"/>
+      <edge id="31897" source="Sungkyunkwan" target="UNIST" weight="11.0"/>
+      <edge id="31898" source="Sungkyunkwan" target="Hanyang_ERICA" weight="5.0"/>
+      <edge id="31899" source="Sungkyunkwan" target="Chung_Ang" weight="15.0"/>
+      <edge id="31900" source="Sungkyunkwan" target="Jeju" weight="4.0"/>
+      <edge id="31901" source="Sungkyunkwan" target="Soongsil" weight="14.0"/>
+      <edge id="31902" source="Sungkyunkwan" target="Hanyang" weight="13.0"/>
+      <edge id="31903" source="Sungkyunkwan" target="Changwon" weight="12.0"/>
+      <edge id="31904" source="Sungkyunkwan" target="Yeungnam" weight="9.0"/>
+      <edge id="31905" source="Sungkyunkwan" target="Chungnam" weight="17.0"/>
+      <edge id="31906" source="Sungkyunkwan" target="Sejong" weight="9.0"/>
+      <edge id="31907" source="Sungkyunkwan" target="ChungBuk" weight="13.0"/>
+      <edge id="31908" source="Sungkyunkwan" target="Yonsei_Mirae" weight="10.0"/>
+      <edge id="31909" source="Sungkyunkwan" target="Ewha" weight="15.0"/>
+      <edge id="31910" source="Sungkyunkwan" target="Chonnam" weight="12.0"/>
+      <edge id="31911" source="Sungkyunkwan" target="Jeonbuk" weight="15.0"/>
+      <edge id="31912" source="Sungkyunkwan" target="Yonsei" weight="13.0"/>
+      <edge id="31913" source="Sungkyunkwan" target="Hankuk" weight="5.0"/>
+      <edge id="31914" source="Sungkyunkwan" target="POSTECH" weight="5.0"/>
+      <edge id="31915" source="Sungkyunkwan" target="KAIST" weight="13.0"/>
+      <edge id="31916" source="Sejong" target="Ajou" weight="6.0"/>
+      <edge id="31917" source="Sejong" target="Inha" weight="14.0"/>
+      <edge id="31918" source="Sejong" target="UNIST" weight="8.0"/>
+      <edge id="31919" source="Sejong" target="Hanyang_ERICA" weight="6.0"/>
+      <edge id="31920" source="Sejong" target="Incheon" weight="12.0"/>
+      <edge id="31921" source="Sejong" target="Chung_Ang" weight="10.0"/>
+      <edge id="31922" source="Sejong" target="Jeju" weight="6.0"/>
+      <edge id="31923" source="Sejong" target="Soongsil" weight="12.0"/>
+      <edge id="31924" source="Sejong" target="Hanyang" weight="14.0"/>
+      <edge id="31925" source="Sejong" target="Changwon" weight="10.0"/>
+      <edge id="31926" source="Sejong" target="Yeungnam" weight="9.0"/>
+      <edge id="31927" source="Sejong" target="Chungnam" weight="15.0"/>
+      <edge id="31928" source="Sejong" target="ChungBuk" weight="14.0"/>
+      <edge id="31929" source="Sejong" target="Yonsei_Mirae" weight="11.0"/>
+      <edge id="31930" source="Sejong" target="Ewha" weight="9.0"/>
+      <edge id="31931" source="Sejong" target="Chonnam" weight="8.0"/>
+      <edge id="31932" source="Sejong" target="Jeonbuk" weight="13.0"/>
+      <edge id="31933" source="Sejong" target="Yonsei" weight="13.0"/>
+      <edge id="31934" source="Sejong" target="POSTECH" weight="7.0"/>
+      <edge id="31935" source="Sejong" target="Hankuk" weight="10.0"/>
+      <edge id="31936" source="Sejong" target="KAIST" weight="13.0"/>
+      <edge id="31937" source="Soongsil" target="Ajou" weight="12.0"/>
+      <edge id="31938" source="Soongsil" target="Incheon" weight="16.0"/>
+      <edge id="31939" source="Soongsil" target="Inha" weight="19.0"/>
+      <edge id="31940" source="Soongsil" target="UNIST" weight="11.0"/>
+      <edge id="31941" source="Soongsil" target="Hanyang_ERICA" weight="9.0"/>
+      <edge id="31942" source="Soongsil" target="Chung_Ang" weight="18.0"/>
+      <edge id="31943" source="Soongsil" target="Jeju" weight="4.0"/>
+      <edge id="31944" source="Soongsil" target="Hanyang" weight="20.0"/>
+      <edge id="31945" source="Soongsil" target="Changwon" weight="15.0"/>
+      <edge id="31946" source="Soongsil" target="Yeungnam" weight="12.0"/>
+      <edge id="31947" source="Soongsil" target="Chungnam" weight="17.0"/>
+      <edge id="31948" source="Soongsil" target="ChungBuk" weight="18.0"/>
+      <edge id="31949" source="Soongsil" target="Yonsei_Mirae" weight="17.0"/>
+      <edge id="31950" source="Soongsil" target="Ewha" weight="14.0"/>
+      <edge id="31951" source="Soongsil" target="Chonnam" weight="14.0"/>
+      <edge id="31952" source="Soongsil" target="Jeonbuk" weight="14.0"/>
+      <edge id="31953" source="Soongsil" target="Yonsei" weight="14.0"/>
+      <edge id="31954" source="Soongsil" target="POSTECH" weight="9.0"/>
+      <edge id="31955" source="Soongsil" target="Hankuk" weight="7.0"/>
+      <edge id="31956" source="Soongsil" target="KAIST" weight="17.0"/>
+      <edge id="31957" source="Ajou" target="Incheon" weight="11.0"/>
+      <edge id="31958" source="Ajou" target="Inha" weight="11.0"/>
+      <edge id="31959" source="Ajou" target="UNIST" weight="8.0"/>
+      <edge id="31960" source="Ajou" target="Hanyang_ERICA" weight="3.0"/>
+      <edge id="31961" source="Ajou" target="Chung_Ang" weight="10.0"/>
+      <edge id="31962" source="Ajou" target="Jeju" weight="8.0"/>
+      <edge id="31963" source="Ajou" target="Changwon" weight="12.0"/>
+      <edge id="31964" source="Ajou" target="Hanyang" weight="15.0"/>
+      <edge id="31965" source="Ajou" target="Yeungnam" weight="13.0"/>
+      <edge id="31966" source="Ajou" target="Chungnam" weight="16.0"/>
+      <edge id="31967" source="Ajou" target="ChungBuk" weight="10.0"/>
+      <edge id="31968" source="Ajou" target="Ewha" weight="11.0"/>
+      <edge id="31969" source="Ajou" target="Yonsei_Mirae" weight="8.0"/>
+      <edge id="31970" source="Ajou" target="Chonnam" weight="9.0"/>
+      <edge id="31971" source="Ajou" target="Jeonbuk" weight="9.0"/>
+      <edge id="31972" source="Ajou" target="Yonsei" weight="7.0"/>
+      <edge id="31973" source="Ajou" target="Hankuk" weight="4.0"/>
+      <edge id="31974" source="Ajou" target="POSTECH" weight="7.0"/>
+      <edge id="31975" source="Ajou" target="KAIST" weight="11.0"/>
+      <edge id="31976" source="Yonsei" target="Incheon" weight="17.0"/>
+      <edge id="31977" source="Yonsei" target="Inha" weight="14.0"/>
+      <edge id="31978" source="Yonsei" target="UNIST" weight="13.0"/>
+      <edge id="31979" source="Yonsei" target="Hanyang_ERICA" weight="5.0"/>
+      <edge id="31980" source="Yonsei" target="Chung_Ang" weight="18.0"/>
+      <edge id="31981" source="Yonsei" target="Jeju" weight="6.0"/>
+      <edge id="31982" source="Yonsei" target="Hanyang" weight="16.0"/>
+      <edge id="31983" source="Yonsei" target="Changwon" weight="16.0"/>
+      <edge id="31984" source="Yonsei" target="Yeungnam" weight="11.0"/>
+      <edge id="31985" source="Yonsei" target="Chungnam" weight="15.0"/>
+      <edge id="31986" source="Yonsei" target="ChungBuk" weight="19.0"/>
+      <edge id="31987" source="Yonsei" target="Yonsei_Mirae" weight="19.0"/>
+      <edge id="31988" source="Yonsei" target="Ewha" weight="19.0"/>
+      <edge id="31989" source="Yonsei" target="Chonnam" weight="11.0"/>
+      <edge id="31990" source="Yonsei" target="Jeonbuk" weight="12.0"/>
+      <edge id="31991" source="Yonsei" target="Hankuk" weight="10.0"/>
+      <edge id="31992" source="Yonsei" target="POSTECH" weight="8.0"/>
+      <edge id="31993" source="Yonsei" target="KAIST" weight="17.0"/>
+      <edge id="31994" source="Yonsei_Mirae" target="Incheon" weight="12.0"/>
+      <edge id="31995" source="Yonsei_Mirae" target="Inha" weight="14.0"/>
+      <edge id="31996" source="Yonsei_Mirae" target="UNIST" weight="9.0"/>
+      <edge id="31997" source="Yonsei_Mirae" target="Hanyang_ERICA" weight="6.0"/>
+      <edge id="31998" source="Yonsei_Mirae" target="Chung_Ang" weight="12.0"/>
+      <edge id="31999" source="Yonsei_Mirae" target="Jeju" weight="5.0"/>
+      <edge id="32000" source="Yonsei_Mirae" target="Hanyang" weight="16.0"/>
+      <edge id="32001" source="Yonsei_Mirae" target="Changwon" weight="15.0"/>
+      <edge id="32002" source="Yonsei_Mirae" target="Yeungnam" weight="11.0"/>
+      <edge id="32003" source="Yonsei_Mirae" target="Chungnam" weight="11.0"/>
+      <edge id="32004" source="Yonsei_Mirae" target="ChungBuk" weight="15.0"/>
+      <edge id="32005" source="Yonsei_Mirae" target="Ewha" weight="13.0"/>
+      <edge id="32006" source="Yonsei_Mirae" target="Chonnam" weight="10.0"/>
+      <edge id="32007" source="Yonsei_Mirae" target="Jeonbuk" weight="10.0"/>
+      <edge id="32008" source="Yonsei_Mirae" target="Hankuk" weight="9.0"/>
+      <edge id="32009" source="Yonsei_Mirae" target="POSTECH" weight="9.0"/>
+      <edge id="32010" source="Yonsei_Mirae" target="KAIST" weight="12.0"/>
+      <edge id="32011" source="Yeungnam" target="Incheon" weight="18.0"/>
+      <edge id="32012" source="Yeungnam" target="Inha" weight="19.0"/>
+      <edge id="32013" source="Yeungnam" target="UNIST" weight="10.0"/>
+      <edge id="32014" source="Yeungnam" target="Hanyang_ERICA" weight="12.0"/>
+      <edge id="32015" source="Yeungnam" target="Chung_Ang" weight="18.0"/>
+      <edge id="32016" source="Yeungnam" target="Jeju" weight="9.0"/>
+      <edge id="32017" source="Yeungnam" target="Hanyang" weight="16.0"/>
+      <edge id="32018" source="Yeungnam" target="Changwon" weight="14.0"/>
+      <edge id="32019" source="Yeungnam" target="Chungnam" weight="22.0"/>
+      <edge id="32020" source="Yeungnam" target="ChungBuk" weight="13.0"/>
+      <edge id="32021" source="Yeungnam" target="Ewha" weight="15.0"/>
+      <edge id="32022" source="Yeungnam" target="Chonnam" weight="17.0"/>
+      <edge id="32023" source="Yeungnam" target="Jeonbuk" weight="14.0"/>
+      <edge id="32024" source="Yeungnam" target="POSTECH" weight="13.0"/>
+      <edge id="32025" source="Yeungnam" target="Hankuk" weight="8.0"/>
+      <edge id="32026" source="Yeungnam" target="KAIST" weight="15.0"/>
+      <edge id="32027" source="UNIST" target="Incheon" weight="13.0"/>
+      <edge id="32028" source="UNIST" target="Inha" weight="14.0"/>
+      <edge id="32029" source="UNIST" target="Hanyang_ERICA" weight="11.0"/>
+      <edge id="32030" source="UNIST" target="Chung_Ang" weight="19.0"/>
+      <edge id="32031" source="UNIST" target="Jeju" weight="3.0"/>
+      <edge id="32032" source="UNIST" target="Hanyang" weight="12.0"/>
+      <edge id="32033" source="UNIST" target="Changwon" weight="12.0"/>
+      <edge id="32034" source="UNIST" target="Chungnam" weight="13.0"/>
+      <edge id="32035" source="UNIST" target="ChungBuk" weight="12.0"/>
+      <edge id="32036" source="UNIST" target="Ewha" weight="13.0"/>
+      <edge id="32037" source="UNIST" target="Chonnam" weight="13.0"/>
+      <edge id="32038" source="UNIST" target="Jeonbuk" weight="13.0"/>
+      <edge id="32039" source="UNIST" target="POSTECH" weight="10.0"/>
+      <edge id="32040" source="UNIST" target="Hankuk" weight="7.0"/>
+      <edge id="32041" source="UNIST" target="KAIST" weight="21.0"/>
+      <edge id="32042" source="Ewha" target="Incheon" weight="11.0"/>
+      <edge id="32043" source="Ewha" target="Inha" weight="16.0"/>
+      <edge id="32044" source="Ewha" target="Hanyang_ERICA" weight="6.0"/>
+      <edge id="32045" source="Ewha" target="Chung_Ang" weight="21.0"/>
+      <edge id="32046" source="Ewha" target="Jeju" weight="4.0"/>
+      <edge id="32047" source="Ewha" target="Hanyang" weight="15.0"/>
+      <edge id="32048" source="Ewha" target="Changwon" weight="10.0"/>
+      <edge id="32049" source="Ewha" target="Chungnam" weight="13.0"/>
+      <edge id="32050" source="Ewha" target="ChungBuk" weight="15.0"/>
+      <edge id="32051" source="Ewha" target="Chonnam" weight="13.0"/>
+      <edge id="32052" source="Ewha" target="Jeonbuk" weight="13.0"/>
+      <edge id="32053" source="Ewha" target="Hankuk" weight="4.0"/>
+      <edge id="32054" source="Ewha" target="POSTECH" weight="9.0"/>
+      <edge id="32055" source="Ewha" target="KAIST" weight="20.0"/>
+      <edge id="32056" source="Incheon" target="Inha" weight="22.0"/>
+      <edge id="32057" source="Incheon" target="Hanyang_ERICA" weight="14.0"/>
+      <edge id="32058" source="Incheon" target="Chung_Ang" weight="20.0"/>
+      <edge id="32059" source="Incheon" target="Jeju" weight="7.0"/>
+      <edge id="32060" source="Incheon" target="Hanyang" weight="19.0"/>
+      <edge id="32061" source="Incheon" target="Changwon" weight="23.0"/>
+      <edge id="32062" source="Incheon" target="Chungnam" weight="27.0"/>
+      <edge id="32063" source="Incheon" target="ChungBuk" weight="14.0"/>
+      <edge id="32064" source="Incheon" target="Chonnam" weight="16.0"/>
+      <edge id="32065" source="Incheon" target="Jeonbuk" weight="19.0"/>
+      <edge id="32066" source="Incheon" target="POSTECH" weight="15.0"/>
+      <edge id="32067" source="Incheon" target="Hankuk" weight="13.0"/>
+      <edge id="32068" source="Incheon" target="KAIST" weight="20.0"/>
+      <edge id="32069" source="Inha" target="Hanyang_ERICA" weight="19.0"/>
+      <edge id="32070" source="Inha" target="Chung_Ang" weight="23.0"/>
+      <edge id="32071" source="Inha" target="Jeju" weight="4.0"/>
+      <edge id="32072" source="Inha" target="Hanyang" weight="18.0"/>
+      <edge id="32073" source="Inha" target="Changwon" weight="16.0"/>
+      <edge id="32074" source="Inha" target="Chungnam" weight="22.0"/>
+      <edge id="32075" source="Inha" target="ChungBuk" weight="18.0"/>
+      <edge id="32076" source="Inha" target="Chonnam" weight="20.0"/>
+      <edge id="32077" source="Inha" target="Jeonbuk" weight="18.0"/>
+      <edge id="32078" source="Inha" target="POSTECH" weight="18.0"/>
+      <edge id="32079" source="Inha" target="Hankuk" weight="11.0"/>
+      <edge id="32080" source="Inha" target="KAIST" weight="21.0"/>
+      <edge id="32081" source="Chonnam" target="Hanyang_ERICA" weight="13.0"/>
+      <edge id="32082" source="Chonnam" target="Chung_Ang" weight="21.0"/>
+      <edge id="32083" source="Chonnam" target="Jeju" weight="9.0"/>
+      <edge id="32084" source="Chonnam" target="Hanyang" weight="15.0"/>
+      <edge id="32085" source="Chonnam" target="Changwon" weight="15.0"/>
+      <edge id="32086" source="Chonnam" target="Chungnam" weight="26.0"/>
+      <edge id="32087" source="Chonnam" target="ChungBuk" weight="13.0"/>
+      <edge id="32088" source="Chonnam" target="Jeonbuk" weight="24.0"/>
+      <edge id="32089" source="Chonnam" target="POSTECH" weight="15.0"/>
+      <edge id="32090" source="Chonnam" target="Hankuk" weight="7.0"/>
+      <edge id="32091" source="Chonnam" target="KAIST" weight="18.0"/>
+      <edge id="32092" source="Jeonbuk" target="Hanyang_ERICA" weight="11.0"/>
+      <edge id="32093" source="Jeonbuk" target="Chung_Ang" weight="18.0"/>
+      <edge id="32094" source="Jeonbuk" target="Jeju" weight="10.0"/>
+      <edge id="32095" source="Jeonbuk" target="Changwon" weight="19.0"/>
+      <edge id="32096" source="Jeonbuk" target="Hanyang" weight="16.0"/>
+      <edge id="32097" source="Jeonbuk" target="Chungnam" weight="26.0"/>
+      <edge id="32098" source="Jeonbuk" target="ChungBuk" weight="14.0"/>
+      <edge id="32099" source="Jeonbuk" target="POSTECH" weight="12.0"/>
+      <edge id="32100" source="Jeonbuk" target="Hankuk" weight="11.0"/>
+      <edge id="32101" source="Jeonbuk" target="KAIST" weight="21.0"/>
+      <edge id="32102" source="Jeju" target="Hanyang_ERICA" weight="3.0"/>
+      <edge id="32103" source="Jeju" target="Chung_Ang" weight="4.0"/>
+      <edge id="32104" source="Jeju" target="Hanyang" weight="7.0"/>
+      <edge id="32105" source="Jeju" target="Changwon" weight="8.0"/>
+      <edge id="32106" source="Jeju" target="Chungnam" weight="18.0"/>
+      <edge id="32107" source="Jeju" target="ChungBuk" weight="6.0"/>
+      <edge id="32108" source="Jeju" target="POSTECH" weight="4.0"/>
+      <edge id="32109" source="Jeju" target="Hankuk" weight="4.0"/>
+      <edge id="32110" source="Jeju" target="KAIST" weight="6.0"/>
+      <edge id="32111" source="Chung_Ang" target="Hanyang_ERICA" weight="14.0"/>
+      <edge id="32112" source="Chung_Ang" target="Hanyang" weight="19.0"/>
+      <edge id="32113" source="Chung_Ang" target="Changwon" weight="15.0"/>
+      <edge id="32114" source="Chung_Ang" target="Chungnam" weight="21.0"/>
+      <edge id="32115" source="Chung_Ang" target="ChungBuk" weight="19.0"/>
+      <edge id="32116" source="Chung_Ang" target="POSTECH" weight="14.0"/>
+      <edge id="32117" source="Chung_Ang" target="Hankuk" weight="10.0"/>
+      <edge id="32118" source="Chung_Ang" target="KAIST" weight="27.0"/>
+      <edge id="32119" source="Changwon" target="Hanyang_ERICA" weight="10.0"/>
+      <edge id="32120" source="Changwon" target="Hanyang" weight="15.0"/>
+      <edge id="32121" source="Changwon" target="Chungnam" weight="22.0"/>
+      <edge id="32122" source="Changwon" target="ChungBuk" weight="12.0"/>
+      <edge id="32123" source="Changwon" target="POSTECH" weight="10.0"/>
+      <edge id="32124" source="Changwon" target="Hankuk" weight="13.0"/>
+      <edge id="32125" source="Changwon" target="KAIST" weight="18.0"/>
+      <edge id="32126" source="Chungnam" target="Hanyang_ERICA" weight="14.0"/>
+      <edge id="32127" source="Chungnam" target="Hanyang" weight="22.0"/>
+      <edge id="32128" source="Chungnam" target="ChungBuk" weight="21.0"/>
+      <edge id="32129" source="Chungnam" target="POSTECH" weight="17.0"/>
+      <edge id="32130" source="Chungnam" target="Hankuk" weight="11.0"/>
+      <edge id="32131" source="Chungnam" target="KAIST" weight="22.0"/>
+      <edge id="32132" source="ChungBuk" target="Hanyang_ERICA" weight="10.0"/>
+      <edge id="32133" source="ChungBuk" target="Hanyang" weight="20.0"/>
+      <edge id="32134" source="ChungBuk" target="POSTECH" weight="13.0"/>
+      <edge id="32135" source="ChungBuk" target="Hankuk" weight="9.0"/>
+      <edge id="32136" source="ChungBuk" target="KAIST" weight="20.0"/>
+      <edge id="32137" source="POSTECH" target="Hanyang_ERICA" weight="17.0"/>
+      <edge id="32138" source="POSTECH" target="Hanyang" weight="9.0"/>
+      <edge id="32139" source="POSTECH" target="Hankuk" weight="6.0"/>
+      <edge id="32140" source="POSTECH" target="KAIST" weight="18.0"/>
+      <edge id="32141" source="KAIST" target="Hanyang_ERICA" weight="14.0"/>
+      <edge id="32142" source="KAIST" target="Hanyang" weight="16.0"/>
+      <edge id="32143" source="KAIST" target="Hankuk" weight="12.0"/>
+      <edge id="32144" source="Hankuk" target="Hanyang_ERICA" weight="9.0"/>
+      <edge id="32145" source="Hankuk" target="Hanyang" weight="8.0"/>
+      <edge id="32146" source="Hanyang" target="Hanyang_ERICA" weight="13.0"/>
+    </edges>
+  </graph>
+</gexf>
