@@ -7,11 +7,11 @@ Through Gephi, you can calculate various network measures and check each node an
 
 and can check it out on our online page using Gephi-lite! https://gephi.org/gephi-lite/
 
-Bipartite Network: https://gist.github.com/d51ab49478adfd2dcb16c927ed7d0e2b.git
+Net01. Bipartite Network: https://gist.github.com/d51ab49478adfd2dcb16c927ed7d0e2b.git
 
-University Projection co-occurrence network: https://gist.github.com/117cda6eb88ff56dade40568d6b8e353.git
+Net02. University Projection co-occurrence network: https://gist.github.com/117cda6eb88ff56dade40568d6b8e353.git
 
-Subject Projection co-occurrence network: https://gist.github.com/e17663e5100b6eebe8495f489b14a2fe.git
+Net03. Subject Projection co-occurrence network: https://gist.github.com/e17663e5100b6eebe8495f489b14a2fe.git
 
 
 
