@@ -12,8 +12,8 @@ Net01. Bipartite Network: https://gist.github.com/d51ab49478adfd2dcb16c927ed7d0e
 Net02. University Projection co-occurrence network: https://gist.github.com/117cda6eb88ff56dade40568d6b8e353.git
 
 Net03. Subject Projection co-occurrence network: https://gist.github.com/e17663e5100b6eebe8495f489b14a2fe.git
-
-
+ 
+ 
 
 ###Use "Gephi-lite" without downloading ###
 
